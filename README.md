@@ -1,2 +1,3 @@
 # emacsConf
-my .emacs.d
+My .emacs.d
+Support for Go, Python, C/C++, Verilog
