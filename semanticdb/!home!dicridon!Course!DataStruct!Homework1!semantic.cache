@@ -1,0 +1,200 @@
+;; Object Homework1/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "Homework1/"
+  :tables (list 
+   (semanticdb-table "3_17.c"
+    :major-mode 'c-mode
+    :tags 
+        '( ("stdio.h" include (:system-flag t) nil [42 60])
+            ("ctype.h" include (:system-flag t) nil [61 79])
+            ("string.h" include (:system-flag t) nil [80 99])
+            ("stdlib.h" include (:system-flag t) nil [100 119])
+            ("stdbool.h" include (:system-flag t) nil [120 140])
+            ("SAFE" variable (:constant-flag t) nil [149 153])
+            ("FAIL" variable (:constant-flag t) nil [164 168])
+            ("Type" type
+               (:typedef ("char")
+                :superclasses "char"
+                :type "typedef")
+                nil [172 190])
+            ("Stack" type
+               (:typedef ("linkstack" type (:type "struct") nil nil)
+                :superclasses "linkstack"
+                :type "typedef")
+                nil [193 268])
+            ("linkstack" type
+               (:members 
+                  ( ("ele" variable (:type ("Type" type (:type "class") nil nil)) (reparse-symbol classsubparts) [223 232])
+                    ("next" variable
+                       (:pointer 1
+                        :type ("linkstack" type
+                             (:prototype t
+                              :type "struct")
+                              nil nil))
+                        (reparse-symbol classsubparts) [237 260]))                  
+                :type "struct")
+                nil [193 268])
+            ("StackInit" function
+               (:prototype-flag t
+                :arguments 
+                  ( ("stack" variable
+                       (:pointer 1
+                        :type ("Stack" type (:type "class") nil nil))
+                        (reparse-symbol arg-sub-list) [308 321]))                  
+                :type "bool")
+                nil [293 322])
+            ("StackDest" function
+               (:prototype-flag t
+                :arguments 
+                  ( ("stack" variable
+                       (:pointer 1
+                        :type ("Stack" type (:type "class") nil nil))
+                        (reparse-symbol arg-sub-list) [368 381]))                  
+                :type "bool")
+                nil [353 382])
+            ("StackClear" function
+               (:prototype-flag t
+                :arguments 
+                  ( ("stack" variable
+                       (:pointer 1
+                        :type ("Stack" type (:type "class") nil nil))
+                        (reparse-symbol arg-sub-list) [464 477]))                  
+                :type "bool")
+                nil [448 478])
+            ("StackEmtpy" function
+               (:prototype-flag t
+                :arguments 
+                  ( ("stack" variable
+                       (:pointer 1
+                        :type ("Stack" type (:type "class") nil nil))
+                        (reparse-symbol arg-sub-list) [525 538]))                  
+                :type "bool")
+                nil [509 539])
+            ("push" function
+               (:prototype-flag t
+                :arguments 
+                  ( ("stack" variable
+                       (:pointer 1
+                        :type ("Stack" type (:type "class") nil nil))
+                        (reparse-symbol arg-sub-list) [583 596])
+                    ("ele" variable (:type ("Type" type (:type "class") nil nil)) (reparse-symbol arg-sub-list) [597 606]))                  
+                :type "bool")
+                nil [573 607])
+            ("pop" function
+               (:prototype-flag t
+                :arguments 
+                  ( ("stack" variable
+                       (:pointer 1
+                        :type ("Stack" type (:type "class") nil nil))
+                        (reparse-symbol arg-sub-list) [655 668]))                  
+                :type ("Type" type (:type "class") nil nil))
+                nil [646 669])
+            ("get" function
+               (:prototype-flag t
+                :arguments 
+                  ( ("stack" variable
+                       (:pointer 1
+                        :type ("Stack" type (:type "class") nil nil))
+                        (reparse-symbol arg-sub-list) [720 733]))                  
+                :type ("Type" type (:type "class") nil nil))
+                nil [711 734])
+            ("RPExpre" function
+               (:prototype-flag t
+                :pointer 1
+                :arguments 
+                  ( ("input" variable
+                       (:pointer 1
+                        :constant-flag t
+                        :type "char")
+                        (reparse-symbol arg-sub-list) [808 826]))                  
+                :type "char")
+                nil [794 827])
+            ("expr" variable
+               (:dereference 1
+                :constant-flag t
+                :type "char")
+                nil [829 867])
+            ("main" function (:type "int") nil [869 981])
+            ("StackInit" function
+               (:arguments 
+                  ( ("stack" variable
+                       (:pointer 1
+                        :type ("Stack" type (:type "class") nil nil))
+                        (reparse-symbol arg-sub-list) [1022 1035]))                  
+                :type "bool")
+                nil [1007 1167])
+            ("StackDest" function
+               (:arguments 
+                  ( ("stack" variable
+                       (:pointer 1
+                        :type ("Stack" type (:type "class") nil nil))
+                        (reparse-symbol arg-sub-list) [1204 1217]))                  
+                :type "bool")
+                nil [1189 1412])
+            ("StackClear" function
+               (:arguments 
+                  ( ("stack" variable
+                       (:pointer 1
+                        :type ("Stack" type (:type "class") nil nil))
+                        (reparse-symbol arg-sub-list) [1495 1508]))                  
+                :type "bool")
+                nil [1479 1765])
+            ("StackEmtpy" function
+               (:arguments 
+                  ( ("stack" variable
+                       (:pointer 1
+                        :type ("Stack" type (:type "class") nil nil))
+                        (reparse-symbol arg-sub-list) [1813 1826]))                  
+                :type "bool")
+                nil [1797 1923])
+            ("push" function
+               (:arguments 
+                  ( ("stack" variable
+                       (:pointer 1
+                        :type ("Stack" type (:type "class") nil nil))
+                        (reparse-symbol arg-sub-list) [1967 1980])
+                    ("ele" variable (:type ("Type" type (:type "class") nil nil)) (reparse-symbol arg-sub-list) [1981 1990]))                  
+                :type "bool")
+                nil [1957 2274])
+            ("pop" function
+               (:arguments 
+                  ( ("stack" variable
+                       (:pointer 1
+                        :type ("Stack" type (:type "class") nil nil))
+                        (reparse-symbol arg-sub-list) [2322 2335]))                  
+                :type ("Type" type (:type "class") nil nil))
+                nil [2313 2550])
+            ("get" function
+               (:arguments 
+                  ( ("stack" variable
+                       (:pointer 1
+                        :type ("Stack" type (:type "class") nil nil))
+                        (reparse-symbol arg-sub-list) [2602 2615]))                  
+                :type ("Type" type (:type "class") nil nil))
+                nil [2593 2710])
+            ("RPExpre" function
+               (:pointer 1
+                :arguments 
+                  ( ("input" variable
+                       (:pointer 1
+                        :constant-flag t
+                        :type "char")
+                        (reparse-symbol arg-sub-list) [2785 2803]))                  
+                :type "char")
+                nil [2771 3124]))          
+    :file "3_17.c"
+    :pointmax 3066
+    :fsize 3025
+    :lastmodtime '(22718 23435 661549 822000)
+    :unmatched-syntax 'nil
+    :lexical-table 
+        '(("FAIL" . ((number "0" 169 . 170)))
+          ("SAFE" . ((number "1" 154 . 155)))
+          )
+
+    )
+   )
+  :file "!home!dicridon!Course!DataStruct!Homework1!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2"
+  )

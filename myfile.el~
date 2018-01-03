@@ -1,0 +1,25 @@
+;; this a little more formal
+(defvar split-symbol ?.
+  "*this is variable used for spliting words you want to camel")
+
+(defun auto-camel ()
+  "this is my sample of minor mode autoCamel"
+  (interactive)
+  (save-excursion
+    (let ((number-of-dots 0)
+	  (end-of-names (point))
+	  (start-of-names))
+      (catch 'BeginningOfBuffer
+	(while (and (not (eq (char-before) 32)) (not (eq (char-before) 10)))
+	  (if (eq (char-before) split-symbol)
+	      (setq number-of-dots (+ number-of-dots 1)))
+	  (backward-word 1)
+	  (if (eq (point) (point-min))
+	      (throw 'BeginningOfBuffer nil))))
+      (forward-word 1)
+      (setq start-of-names (point))
+      (capitalize-region start-of-names end-of-names)
+      (goto-char end-of-names)
+      (dotimes (null number-of-dots)
+	(backward-word 1)
+	(backward-delete-char 1)))))

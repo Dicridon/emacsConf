@@ -1,0 +1,41 @@
+;; Object Desktop/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "Desktop/"
+  :tables (list 
+    (semanticdb-table "testForAutoCamel.cpp"
+    :major-mode 'c++-mode
+    :tags 
+        '( ("iostream" include (:system-flag t) nil [1 20])
+            ("std" using (:type ("std" type
+                 (:prototype t
+                  :type "namespace")
+                  nil nil)) nil [21 41])
+            ("Animal" type
+               (:members 
+                  ( ("private" label nil (reparse-symbol classsubparts) [57 65])
+                    ("m_weight" variable (:type "int") (reparse-symbol classsubparts) [70 83])
+                    ("m_height" variable (:type "int") (reparse-symbol classsubparts) [88 101])
+                    ("public" label nil (reparse-symbol classsubparts) [102 109])
+                    ("Animal" function
+                       (:constructor-flag t
+                        :arguments 
+                          ( ("weight" variable (:type "int") (reparse-symbol arg-sub-list) [121 133])
+                            ("height" variable (:type "int") (reparse-symbol arg-sub-list) [139 151]))                          
+                        :type ("Animal" type (:type "class") nil nil))
+                        (reparse-symbol classsubparts) [114 197])
+                    ("showDetail" function (:type "void") (reparse-symbol classsubparts) [202 264])
+                    ("record" function (:type "void") (reparse-symbol classsubparts) [269 308]))                  
+                :type "class")
+                nil [42 311])
+            ("main" function (:type "int") nil [313 436]))          
+    :file "testForAutoCamel.cpp"
+    :pointmax 533
+    :fsize 503
+    :lastmodtime '(22930 48944 604358 436000)
+    :unmatched-syntax '((semantic-list 437 . 531) (number 152 . 155) (punctuation 150 . 151) (number 134 . 137) (punctuation 132 . 133) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (semantic-list 437 . 525) (number 152 . 155) (punctuation 150 . 151) (number 134 . 137) (punctuation 132 . 133) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (semantic-list 437 . 522) (number 152 . 155) (punctuation 150 . 151) (number 134 . 137) (punctuation 132 . 133) (semantic-list 437 . 512) (number 152 . 155) (punctuation 150 . 151) (number 134 . 137) (punctuation 132 . 133) (semantic-list 437 . 509) (number 152 . 155) (punctuation 150 . 151) (number 134 . 137) (punctuation 132 . 133) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (semantic-list 437 . 504) (number 152 . 155) (punctuation 150 . 151) (number 134 . 137) (punctuation 132 . 133) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (semantic-list 437 . 503) (number 152 . 155) (punctuation 150 . 151) (number 134 . 137) (punctuation 132 . 133) (semantic-list 441 . 484) (symbol 437 . 440) (number 480 . 483) (punctuation 467 . 468) (punctuation 458 . 459) (punctuation 450 . 451) (number 152 . 155) (punctuation 150 . 151) (number 134 . 137) (punctuation 132 . 133) (semantic-list 440 . 483) (symbol 437 . 440) (number 479 . 482) (punctuation 466 . 467) (punctuation 457 . 458) (punctuation 449 . 450) (number 152 . 155) (punctuation 150 . 151) (number 134 . 137) (punctuation 132 . 133) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344) (number 346 . 349) (number 341 . 344))
+    )
+   )
+  :file "!home!dicridon!Desktop!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2"
+  )

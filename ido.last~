@@ -1,0 +1,351 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/frostfall/Desktop/OSLabFile/Github/P6/Project6-File-System/project6-start-code/" . "lib/")
+ ("/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/Documentation/" . "filesystems/")
+ ("/home/frostfall/Course/OS/Linux4.12.10/" . "linux-4.12.10/")
+ ("/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/arch/x86/entry/" . "syscalls/")
+ ("/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/include/" . "linux/")
+ ("/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/arch/x86/include/uapi/" . "asm/")
+ ("/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/arch/x86/include/" . "uapi/")
+ ("/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/arch/x86/" . "entry/")
+ ("/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/arch/" . "x86/")
+ ("/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/fs/" . "f2fs/")
+ ("/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/" . "Documentation/")
+ ("/home/frostfall/Desktop/OSLabFile/Github/P6/" . "Project6-File-System/")
+ ("/home/frostfall/Desktop/OSLabFile/Github/P6/Project6-File-System/" . "project6-start-code/")
+ ("/home/frostfall/GoSpace/src/github.com/Dicridon/Learning/" . "MATH/")
+ ("/home/frostfall/Course/CA/ChapterXIV/" . "13/")
+ ("/usr/local/go/src/go/" . "types/")
+ ("/usr/local/go/src/" . "go/")
+ ("/usr/local/go/" . "src/")
+ ("/usr/local/" . "go/")
+ ("/usr/" . "local/")
+ ("/home/frostfall/.emacs.d/elpa/" . "go-errcheck-20160722.1743/")
+ ("/home/frostfall/GoSpace/src/github.com/Dicridon/" . "Learning/")
+ ("/home/frostfall/GoSpace/src/github.com/" . "Dicridon/")
+ ("/home/frostfall/GoSpace/src/" . "github.com/")
+ ("/home/frostfall/GoSpace/" . "src/")
+ ("/home/frostfall/Course/CA/Lab/Lab007-2/tlb_func/" . "include/")
+ ("/home/frostfall/Course/CA/Lab/Lab007-2/" . "myCPU/")
+ ("/home/frostfall/Course/ML/" . "TuringTest_ML/")
+ ("/home/frostfall/Course/CA/Lab/Lab007/tlb_func/" . "inst/")
+ ("/home/frostfall/Desktop/OSLabFile/Github/P5/Project5-Virtual-Memory/" . "project5_start_code/")
+ ("/home/frostfall/Desktop/OSLabFile/Github/P5/" . "Project5-Virtual-Memory/")
+ ("/home/frostfall/Desktop/OSLabFile/Github/" . "P6/")
+ ("/home/frostfall/Course/OS/OS/P4/data/OS/P4/" . "project4_start_code/")
+ ("/home/frostfall/Course/OS/OS/P4/data/OS/" . "P4/")
+ ("/home/frostfall/Course/OS/OS/P4/data/" . "OS/")
+ ("/home/frostfall/Course/OS/OS/P4/project4_start_code/" . "test_sanguo/")
+ ("/home/frostfall/Course/OS/OS/P4/" . "data/")
+ ("/home/frostfall/Course/CA/Lab/Lab006/axi/" . "rtl/")
+ ("/home/frostfall/Course/CA/Lab/Lab006/axi/rtl/" . "axi_ifc/")
+ ("/home/frostfall/Course/CA/Lab/Lab006/" . "axi/")
+ ("/home/frostfall/Course/AI/Lab/Python/" . "H13/")
+ ("/home/frostfall/Course/AI/Lab/" . "Python/")
+ ("/home/frostfall/Desktop/OSLabFile/Lab004/Project4-Synchronization-Primitives-IPC/project4_start_code/" . "test_all/")
+ ("/home/frostfall/Course/CA/Lab/" . "Lab007-2/")
+ ("/home/frostfall/Desktop/OSLabFile/Lab004/Project4-Synchronization-Primitives-IPC/" . "project4_start_code/")
+ ("/home/frostfall/Desktop/OSLabFile/Lab004/" . "Project4-Synchronization-Primitives-IPC/")
+ ("/" . "home/")
+ ("/home/frostfall/.oh-my-zsh/plugins/" . "autojump/")
+ ("/home/frostfall/.oh-my-zsh/" . "plugins/")
+ ("/home/frostfall/.config/" . "fish/")
+ ("/home/frostfall/.emacs.d/" . "elpa/")
+ ("/home/frostfall/Course/OS/OS/P3/" . "project3_start_code/")
+ ("/home/frostfall/Course/OS/OS/" . "P4/")
+ ("/home/frostfall/Desktop/OSLabFile/Lab003/Project3-Preemptive-Kernel/project3_start_code/" . "test_preempt/")
+ ("/home/frostfall/Desktop/OSLabFile/Lab003/Project3-Preemptive-Kernel/" . "project3_start_code/")
+ ("/home/frostfall/Desktop/OSLabFile/Lab003/" . "project3_start_code/")
+ ("/home/frostfall/Course/OS/SourceCodeAnalysis/" . "second/")
+ ("/home/frostfall/Course/CA/" . "ChapterXV/")
+ ("/home/frostfall/Course/Algorithm/oj/" . "OJ4/")
+ ("/home/frostfall/Course/OS/XV6/" . "xv6-public/")
+ ("/home/frostfall/Desktop/OSLabFile/Lab002/" . "start_code/")
+ ("/home/frostfall/Desktop/OSLabFile/" . "Github/")
+ ("/home/" . "frostfall/")
+ ("/home/frostfall/Course/Algorithm/" . "HomeworkII/")
+ ("/home/frostfall/Course/OS/Lab/Pro1/" . "task_4_start_code/")
+ ("/home/frostfall/Course/OS/Lab/" . "Pro1/")
+ ("/home/frostfall/Course/AI/" . "PPTs/")
+ ("/home/frostfall/Desktop/" . "OSLabFile/")
+ ("/home/frostfall/" . ".emacs.d/")
+ ("/home/frostfall/Course/OS/" . "Linux4.12.10/")
+ ("/home/frostfall/Course/" . "OS/")
+ ("/etc/" . "default/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/frostfall/.emacs.d/"
+ "/home/frostfall/Desktop/OSLabFile/Github/P6/Project6-File-System/project6-start-code/"
+ "/home/frostfall/Desktop/OSLabFile/Github/P6/Project6-File-System/project6-start-code/lib/"
+ "/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/Documentation/filesystems/"
+ "/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/Documentation/"
+ "/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/include/linux/"
+ "/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/"
+ "/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/mm/"
+ "/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/arch/x86/entry/syscalls/"
+ "/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/arch/x86/entry/"
+ "/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/arch/x86/include/uapi/asm/"
+ "/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/arch/x86/include/asm/"
+ "/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/fs/"
+ "/home/frostfall/Course/OS/SourceCodeAnalysis/"
+ "/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/fs/f2fs/"
+ "/home/frostfall/Desktop/Homework13/"
+ "/home/frostfall/Course/OS/XV6/xv6-public/"
+ "/home/frostfall/NewYearWishes/"
+ "/home/frostfall/Desktop/OSLabFile/Github/P6/Project6-File-System/"
+ "/home/frostfall/Course/OS/HomeworkXII/"
+ "/home/frostfall/Course/AI/PPTs/"
+ "/home/frostfall/GoSpace/src/github.com/Dicridon/Learning/"
+ "/home/frostfall/Course/CA/ChapterXV/"
+ "/home/frostfall/Desktop/P5/"
+ "/home/frostfall/Course/OS/Lab/"
+ "/home/frostfall/Course/CA/"
+ "/home/frostfall/Course/OS/HomeworkVI/"
+ "/home/frostfall/Course/CA/ChapterXIV/"
+ "/home/frostfall/Course/OS/"
+ "/home/frostfall/GoSpace/src/github.com/Dicridon/mymath/"
+ "/home/frostfall/GoSpace/src/github.com/Dicridon/Math/"
+ "/home/frostfall/GoSpace/src/github.com/Dicridon/Learning/MATH/"
+ "/home/frostfall/GoSpace/src/github.com/Dicridon/asdf/"
+ "/home/frostfall/GoSpace/src/github.com/Dicridon/test/"
+ "/home/frostfall/Desktop/"
+ "/home/frostfall/Desktop/OSLabFile/Lab5Xu/"
+ "/home/frostfall/Course/ML/TuringTest_ML/"
+ "/home/frostfall/Course/CA/ChapterXIV/13/"
+ "/home/frostfall/Desktop/OSLabFile/Github/P5/Project5-Virtual-Memory/project5_start_code/"
+ "/home/frostfall/Course/CA/Lab/Lab007-2/myCPU/"
+ "/usr/local/go/src/go/types/"
+ "/home/frostfall/.emacs.d/elpa/company-go-20170825.943/"
+ "/home/frostfall/.emacs.d/elpa/go-errcheck-20160722.1743/"
+ "/home/frostfall/"
+ "/home/frostfall/Course/CA/Lab/Lab007-2/tlb_func/include/"
+ "/home/frostfall/Course/AI/Lab/Python/H13/"
+ "/home/frostfall/Course/CA/Lab/Lab007/tlb_func/inst/"
+ "/home/frostfall/Course/AI/Homework12/"
+ "/home/frostfall/Course/AI/Homework14/"
+ "/home/frostfall/Course/AI/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ "common.h"
+ "common.c"
+ "Makefile"
+ "fuse.h"
+ "fuse.txt"
+ "sysfs.txt"
+ "vmscan.c"
+ "fsyncs"
+ "syscall_64.tbl"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/frostfall/.emacs.d/" (23116 37220 563104 901000) "var/" "ede-projects.el" "semanticdb/" "session.1033a0065392a8f697149421148680272100000019340044" "session.109b6a19ac386b694e14976877232424100000022640032" "session.10657f305be12047d8150451505321199800000022640034" "tutorial/" "session.1033a0065392a8f697149421059044754100000019340039" "../" "autoCamel.el~" "session.106e67dabfe8efd86a150417486418433300000023750038" "./" "session.109b24f46f6f4692fb149908334733485200000022530052" "session.1072864ce5eb63431149420737824708300000019020032" ".emacs" "myfile.el~" "session.108ee5a63dba649e55150425330320366200000022740036" "init.el~" "ido.last" "themes/" "smex-items" "ido.last~" "snippets/" "ac-comphist.dat" "session.10dc7d89b725560bfc149814378868359000000022750052" "session.10f1691765a9c9ca12149771606024694500000022610032" "init.el" "elpa/" "autoCamel.el" "auto-save-list/" "session.107c556825add7dc06149586000025425200000022880032" "session.1098b6163a83642ca7149495176658005600000020140031" "session.10dac2a7d674eb90b3149434999895837800000019140050")
+
+ ("/home/frostfall/" (23116 37730 355756 370000) "CNN/" ".presage/" ".bashrc~" ".xinputrc" "GoSpace/" ".python_history" ".Xauthority" ".cache/" "ycm_build/" ".theanorc" ".ICEauthority" ".pki/" ".bash_history" ".jupyter/" "Public/" ".gnome/" ".zsh-update" "Desktop/" ".local/" ".viminfo" ".gconf/" "Course/" "NewYearWishes/" "../" ".xpce/" "./" ".profile~" ".vimrc" "Music/" "dp/" ".config/" "minicom.log" ".autojump/" ".ipython/" ".zshrc" ".fonts/" ".gnupg/" ".Xilinx/" ".xsession-errors" "Scheme/" ".dbus/" "VirtualBox VMs/" "spacemacs/" ".emacs.d/" "Utility/" "Pictures/" ".histfile" ".kingsoft/" ".vscode/" ".bashrc" ".oh-my-zsh/" ".vim/" ".theano/" ".zsh_history" ".compiz/" "*terminal*~" ".profile" "Documents/" ".xsession-errors.old" "Project5+Virtual+Memory设计文档.docx_0.odt" ".rpmdb/" "Templates/" "untitled_0.odp" ".xsel.log" ".swipl-dir-history/" ".ssh/" ".oracle_jre_usage/" ".pam_environment" ".chezscheme_history" ".thunderbird/" "emacsFile/" ".zcompdump" ".mozilla/" ".bash_logout" "*terminal*" "AdaBoost.py" ".zcompdump-Folio-5.1.1" ".java/" "AdaBoost.py~" ".lesshst" ".texmf-var/" ".dmrc" ".zshrc~" "Downloads/" ".sudo_as_admin_successful" "Videos/" ".spacemacs" ".gitconfig" ".pylint.d/")
+
+ ("/home/frostfall/Desktop/OSLabFile/Github/P6/Project6-File-System/project6-start-code/lib/" (23106 4621 303852 417000) "../" "./" "fuse.h")
+
+ ("/home/frostfall/Desktop/OSLabFile/Github/P6/Project6-File-System/project6-start-code/example/" (23106 4621 303852 417000) "../" "./" "hello.c")
+
+ ("/home/frostfall/Desktop/" (23115 7792 724732 686000) "strtoktest.c~" "homework" "PPT_04.pptx" "Wang/" "large_kernel.c~" "Homework13/" "lab7-1_23.zip" "createimage.c~" "entry (1).S" "../" "./" "thread_test.c~" "OSLabFile/" "P5/" "strtoktest" "image" "test.cpp" "autojump_v21.1.2/" "TuringTest_CNN/" "homework13.txt~" "TuringTest_ML/" "test.cpp~" "PPT_05.pdf" "strtoktest.c" "struct.c~" "Paper_From_YY/" "q" "test" "test_dump" "emacsfile/" "Homework7/" "P5-P6分组.xlsx")
+
+ ("/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/Documentation/sysctl/" (22950 30750 0 0) "fs.txt" "00-INDEX" "net.txt" "../" "./" "README" "vm.txt" "user.txt" "kernel.txt" "sunrpc.txt" "abi.txt")
+
+ ("/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/Documentation/filesystems/" (22950 30750 0 0) "efivarfs.txt" "gfs2-glocks.txt" "proc.txt" "cramfs.txt" "00-INDEX" "ceph.txt" "spufs.txt" "nfs/" "porting" "locks.txt" "hfs.txt" "f2fs.txt" "seq_file.txt" "gfs2.txt" "sharedsubtree.txt" "fiemap.txt" "tmpfs.txt" "omfs.txt" "../" "hfsplus.txt" "adfs.txt" "squashfs.txt" "ecryptfs.txt" "vfs.txt" "fuse.txt" "./" "nilfs2.txt" "isofs.txt" "ubifs.txt" "dnotify.txt" "relay.txt" "sysfs-tagging.txt" "path-lookup.txt" "files.txt" "ntfs.txt" "debugfs.txt" "befs.txt" "gfs2-uevents.txt" "btrfs.txt" "directory-locking" "ramfs-rootfs-initramfs.txt" "ocfs2-online-filecheck.txt" "mandatory-locking.txt" "automount-support.txt" "ext2.txt" "configfs/" "jfs.txt" "autofs4-mount-control.txt" "bfs.txt" "afs.txt" "orangefs.txt" "dlmfs.txt" "9p.txt" "hpfs.txt" "ext3.txt" "ncpfs.txt" "sysfs.txt" "pohmelfs/" "overlayfs.txt" "quota.txt" "ocfs2.txt" "autofs4.txt" "cifs/" "coda.txt" "caching/" "qnx6.txt" "vfat.txt" "sysfs-pci.txt" "affs.txt" "ext4.txt" "sysv-fs.txt" "xfs-self-describing-metadata.txt" "path-lookup.md" "xfs-delayed-logging-design.txt" "exofs.txt" "devpts.txt" "dax.txt" "romfs.txt" "udf.txt" "inotify.txt" "Locking" "ufs.txt" "xfs.txt")
+
+ ("/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/Documentation/" (22950 30750 0 0) "namespaces/" "nvmem/" "xz.txt" "fpga/" "xtensa/" "ntb.txt" "robust-futex-ABI.txt" "target/" ".gitignore" "fmc/" "switchtec.txt" "phy.txt" "00-INDEX" "nfc/" "extcon/" "RCU/" "pwm.txt" "auxdisplay/" "mtd/" "intel_txt.txt" "svga.txt" "livepatch/" "driver-model/" "isdn/" "kref.txt" "static-keys.txt" "timers/" "sysctl/" "prctl/" "pinctrl.txt" "usb/" "pi-futex.txt" "dontdiff" "cdrom/" "w1/" "kernel-per-CPU-kthreads.txt" "sparc/" "ABI/" "Makefile.sphinx" "hw_random.txt" "vfio.txt" "logo.gif" "parisc/" "scsi/" "mmc/" "isa.txt" "digsig.txt" "scheduler/" "irqflags-tracing.txt" "iostats.txt" "ioctl/" "dev-tools/" "i2c/" "block/" "Changes" "hwmon/" "DMA-API-HOWTO.txt" "sync_file.txt" "rbtree.txt" "xillybus.txt" "process/" "dmaengine/" "arm/" "DMA-API.txt" "filesystems/" "hwspinlock.txt" "devicetree/" "sphinx-static/" "cris/" "lightnvm/" "fb/" "security/" "core-api/" "networking/" "rpmsg.txt" "arm64/" "platform/" "tee.txt" "gpio/" "netlabel/" "perf/" "debugging-modules.txt" "admin-guide/" "highuid.txt" "device-mapper/" "blackfin/" "cpu-freq/" "laptops/" "io-mapping.txt" "accounting/" "circular-buffers.txt" "pti/" "ide/" "efi-stub.txt" "index.rst" "pnp.txt" "translations/" "docutils.conf" "doc-guide/" "metag/" "trace/" "kprobes.txt" "unaligned-memory-access.txt" "SM501.txt" "backlight/" "robust-futexes.txt" "rapidio/" "sgi-ioc4.txt" "SAK.txt" "vfio-mediated-device.txt" "cma/" "phy/" "kdump/" "logo.txt" "IRQ-domain.txt" "nvdimm/" "wimax/" "IRQ-affinity.txt" "kernel-doc-nano-HOWTO.txt" "firmware_class/" "power/" "input/" "kselftest.txt" "pcmcia/" "mic/" "s390/" "mips/" "powerpc/" "conf.py" "infiniband/" "cpu-load.txt" "kbuild/" "io_ordering.txt" "sh/" "nios2/" "media/" "rtc.txt" "isapnp.txt" "this_cpu_ops.txt" "userspace-api/" "bcache.txt" "siphash.txt" "x86/" "numastat.txt" "zorro.txt" "Intel-IOMMU.txt" "vm/" "cgroup-v1/" "watchdog/" "smsc_ece1099.txt" "mailbox.txt" "acpi/" "gcc-plugins.txt" "sphinx/" "hid/" "EDID/" "preempt-locking.txt" "DMA-ISA-LPC.txt" "IPMI.txt" "gpu/" "memory-barriers.txt" "lockup-watchdogs.txt" "cgroup-v2.txt" "m68k/" "CodingStyle" "ia64/" "flexible-arrays.txt" "leds/" "iio/" "blockdev/" "connector/" "men-chameleon-bus.txt" "features/" "printk-formats.txt" "sound/" "bt8xxgpio.txt" "btmrvl.txt" "ldm.txt" "crc32.txt" "dell_rbu.txt" "percpu-rw-semaphore.txt" "dcdbas.txt" "driver-api/" "DMA-attributes.txt" "cachetlb.txt" "locking/" "IRQ.txt" "frv/" "remoteproc.txt" "pps/" "eisa.txt" "clk.txt" "PCI/" "parport-lowlevel.txt" "bus-virt-phys-mapping.txt" "rfkill.txt" "console/" "serial/" "md/" "cputopology.txt" "fault-injection/" "cpuidle/" "DocBook/" "kobject.txt" "ptp/" "lzo.txt" "bus-devices/" "Makefile" "video-output.txt" "early-userspace/" "SubmittingPatches" "mn10300/" "memory-devices/" "padata.txt" "debugging-via-ohci1394.txt" "nommu-mmap.txt" "thermal/" "crypto/" "virtual/" "futex-requeue-pi.txt" "memory-hotplug.txt" "misc-devices/" "spi/" "aoe/" "../" "./")
+
+ ("/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/mm/" (22950 30750 0 0) "vmscan.c" "mprotect.c" "mempolicy.c" "internal.h" "quicklist.c" "nobootmem.c" "swap_cgroup.c" "slab_common.c" "page_io.c" "oom_kill.c" "mmu_context.c" "usercopy.c" "page_counter.c" "memory.c" "highmem.c" "zbud.c" "mmu_notifier.c" "memcontrol.c" "vmpressure.c" "balloon_compaction.c" "dmapool.c" "vmacache.c" "bootmem.c" "process_vm_access.c" "maccess.c" "slab.c" "percpu-km.c" "page_idle.c" "zswap.c" "compaction.c" "userfaultfd.c" "swap.c" "slub.c" "cma.c" "../" "Kconfig.debug" "hugetlb.c" "mm_init.c" "frame_vector.c" "shmem.c" "./" "percpu.c" "list_lru.c" "memory-failure.c" "pgtable-generic.c" "slab.h" "mremap.c" "debug_page_ref.c" "z3fold.c" "zsmalloc.c" "vmalloc.c" "gup.c" "rodata_test.c" "workingset.c" "migrate.c" "kmemleak-test.c" "cma_debug.c" "page_vma_mapped.c" "debug.c" "filemap.c" "kmemleak.c" "fadvise.c" "mincore.c" "page_isolation.c" "interval_tree.c" "zpool.c" "hugetlb_cgroup.c" "failslab.c" "mmzone.c" "memtest.c" "memblock.c" "backing-dev.c" "kmemcheck.c" "percpu-vm.c" "mlock.c" "swap_slots.c" "Kconfig" "page_owner.c" "kasan/" "swap_state.c" "page-writeback.c" "huge_memory.c" "swapfile.c" "page_poison.c" "pagewalk.c" "hwpoison-inject.c" "readahead.c" "init-mm.c" "util.c" "frontswap.c" "vmstat.c" "ksm.c" "sparse.c" "page_alloc.c" "cleancache.c" "truncate.c" "khugepaged.c" "page_ext.c" "madvise.c" "Makefile" "cma.h" "mempool.c" "rmap.c" "msync.c" "mmap.c" "slob.c" "nommu.c" "memory_hotplug.c" "sparse-vmemmap.c" "early_ioremap.c")
+
+ ("/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/" (23115 19646 370533 562000) "samples/" ".gitignore" "fsyncs~" "certs/" "firmware/" ".get_maintainer.ignore" "SCHEFILE" "CREDITS" "block/" "../" "mm/" "kernel/" "./" "security/" "scripts/" "virt/" "include/" "fs/" "lib/" "README" "COPYING" "MAINTAINERS" "SCHEFILE~" ".gitattributes" "fsyncs" "usr/" "drivers/" "Kconfig" "net/" "arch/" "init/" "sound/" ".mailmap" "Kbuild" "ipc/" "tools/" "Documentation/" "Makefile" "crypto/" ".cocciconfig")
+
+ ("/home/frostfall/Course/AI/PPTs/" (23115 13259 263678 781000) "GBRT.pptx" "LG.pptx" "4_概率图模型之EM.pptx" "slides/" "../" "2_概率图模型之有监督有向图.pptx" "课程概述.pptx" "./" "slides.zip" "TKDE-yan.pdf" "2_图像虚幻化.pptx" "ReviewPlan~" "2_卷积神经网络.pptx" "回归树.pptx" "3_概率图模型之PLSA.pptx" "AI是个什么鬼.pptx" "5_概率图模型之高斯混合模型.pptx" "NB.pptx" "3_循环神经网络.pptx" "7_概率图模型之CRF.pptx" "1_概率图模型之有向图.pptx" "ReviewPlan" "6_概率图模型之无向图.pptx" "1_神经网络的思想对PLSA模型优化.pptx" "决策树.pptx" "1_前馈神经网络.pptx" "texput.log" "ensemble.pptx" "Backprop.pptx" "Theano_course_cd.pptx")
+
+ ("/home/frostfall/Course/OS/SourceCodeAnalysis/" (23115 19323 784666 404000) "second/" "forth.c" "../" "./" "第一次实例分析讲义.pdf" "xv6实例分析之并发、同步与进程间通信.pdf" "forth.md~" "first/" "forth.c~")
+
+ ("/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/arch/x86/entry/syscalls/" (22950 30750 0 0) "syscall_32.tbl" "../" "./" "syscall_64.tbl" "syscallhdr.sh" "syscalltbl.sh" "Makefile")
+
+ ("/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/arch/x86/entry/" (22950 30750 0 0) "entry_64_compat.S" "thunk_32.S" "calling.h" "entry_32.S" "../" "syscalls/" "./" "vdso/" "syscall_32.c" "entry_64.S" "thunk_64.S" "syscall_64.c" "vsyscall/" "common.c" "Makefile")
+
+ ("/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/arch/x86/include/uapi/asm/" (22950 30750 0 0) "mce.h" "hyperv.h" "setup.h" "ldt.h" "resource.h" "svm.h" "auxvec.h" "sigcontext.h" "fcntl.h" "types.h" "boot.h" "errno.h" "kvm_para.h" "poll.h" "signal.h" "posix_types_32.h" "hwcap2.h" "socket.h" "../" "processor-flags.h" "ptrace-abi.h" "ipcbuf.h" "mtrr.h" "perf_regs.h" "./" "e820.h" "vm86.h" "hw_breakpoint.h" "prctl.h" "sockios.h" "ist.h" "statfs.h" "termbits.h" "kvm_perf.h" "ptrace.h" "stat.h" "param.h" "unistd.h" "msr.h" "posix_types_x32.h" "vmx.h" "ucontext.h" "sigcontext32.h" "swab.h" "ioctls.h" "bootparam.h" "kvm.h" "siginfo.h" "vsyscall.h" "shmbuf.h" "debugreg.h" "ioctl.h" "a.out.h" "bitsperlong.h" "termios.h" "byteorder.h" "posix_types_64.h" "mman.h" "msgbuf.h" "Kbuild" "sembuf.h" "posix_types.h")
+
+ ("/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/arch/x86/include/uapi/" (22950 30750 0 0) "../" "./" "asm/")
+
+ ("/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/arch/x86/include/asm/" (22950 30750 0 0) "iosf_mbi.h" "mce.h" "pgtable_64.h" "pci-functions.h" "setup.h" "x2apic.h" "imr.h" "kexec.h" "mpspec_def.h" "traps.h" "pgtable.h" "tce.h" "special_insns.h" "sync_bitops.h" "pkeys.h" "xor_32.h" "mc146818rtc.h" "shmparam.h" "pgtable-3level.h" "text-patching.h" "acenv.h" "ipi.h" "pgtable_32.h" "svm.h" "tsc.h" "linkage.h" "vdso.h" "pat.h" "mach_traps.h" "cpufeatures.h" "bitops.h" "uv/" "iomap.h" "apm.h" "cmpxchg.h" "xor_avx.h" "kmap_types.h" "kvm_guest.h" "apicdef.h" "intel_rdt_common.h" "sigcontext.h" "hpet.h" "string.h" "uaccess_32.h" "segment.h" "bug.h" "mmx.h" "microcode_amd.h" "bios_ebda.h" "mach_timer.h" "dma.h" "simd.h" "suspend_32.h" "mmzone_64.h" "dwarf2.h" "tlb.h" "cmdline.h" "ia32.h" "page_64.h" "sigframe.h" "insn.h" "frame.h" "reboot_fixups.h" "lguest_hcall.h" "fb.h" "boot.h" "vvar.h" "lguest.h" "arch_hweight.h" "mmconfig.h" "desc.h" "smp.h" "kvm_para.h" "stacktrace.h" "sparsemem.h" "extable.h" "nops.h" "checksum.h" "signal.h" "apb_timer.h" "livepatch.h" "pgtable_32_types.h" "local.h" "inat_types.h" "fpu/" "iommu_table.h" "msidef.h" "apic.h" "delay.h" "pgalloc.h" "rmwcc.h" "required-features.h" "mmzone.h" "preempt.h" "asm.h" "iommu.h" "elf.h" "checksum_32.h" "irqdomain.h" "pgtable-2level_types.h" "processor-flags.h" "pci_x86.h" "jump_label.h" "misc.h" "bugs.h" "percpu.h" "vgtod.h" "parport.h" "qspinlock_paravirt.h" "disabled-features.h" "paravirt_types.h" "pgtable-3level_types.h" "ia32_unistd.h" "calgary.h" "edac.h" "pgtable_types.h" "pvclock-abi.h" "cache.h" "intel_scu_ipc.h" "syscall.h" "kbdleds.h" "mtrr.h" "bootparam_utils.h" "swiotlb.h" "x86_init.h" "irqflags.h" "msr-index.h" "irq_remapping.h" "vm86.h" "rwsem.h" "intel_pt.h" "sta2x11.h" "e820/" "kmemcheck.h" "irq_regs.h" "acpi.h" "mshyperv.h" "purgatory.h" "fixmap.h" "intel_rdt.h" "io_apic.h" "uprobes.h" "hypertransport.h" "div64.h" "hw_breakpoint.h" "device.h" "page_32.h" "atomic64_32.h" "page_64_types.h" "prom.h" "microcode_intel.h" "cmpxchg_64.h" "ist.h" "efi.h" "qspinlock.h" "kgdb.h" "emergency-restart.h" "irq_work.h" "processor-cyrix.h" "futex.h" "timex.h" "kdebug.h" "cpu.h" "user_64.h" "dma-mapping.h" "msi.h" "mmzone_32.h" "intel_mid_vrtc.h" "kprobes.h" "math_emu.h" "uaccess.h" "paravirt.h" "switch_to.h" "io.h" "export.h" "mpx.h" "kvm_page_track.h" "trace/" "desc_defs.h" "xor.h" "inat.h" "asm-offsets.h" "pmc_core.h" "pci-direct.h" "barrier.h" "platform_sst_audio.h" "topology.h" "suspend_64.h" "ftrace.h" "user_32.h" "ptrace.h" "virtext.h" "suspend.h" "word-at-a-time.h" "spinlock_types.h" "smap.h" "kasan.h" "kexec-bzimage64.h" "kvm_host.h" "reboot.h" "kvmclock.h" "user.h" "highmem.h" "tlbflush.h" "dmi.h" "set_memory.h" "unwind.h" "agp.h" "hardirq.h" "unistd.h" "genapic.h" "perf_event.h" "a.out-core.h" "msr.h" "cmpxchg_32.h" "atomic64_64.h" "amd_nb.h" "thread_info.h" "asm-prototypes.h" "entry_arch.h" "vmx.h" "pgtable-2level.h" "atomic.h" "xor_64.h" "irq.h" "spinlock.h" "init.h" "unaligned.h" "checksum_64.h" "vsyscall.h" "page_types.h" "debugreg.h" "espfix.h" "geode.h" "mmu.h" "current.h" "alternative.h" "kvm_emulate.h" "pmem.h" "numa_32.h" "trace_clock.h" "seccomp.h" "irq_vectors.h" "intel_telemetry.h" "numachip/" "vga.h" "pgtable_64_types.h" "string_32.h" "module.h" "floppy.h" "hw_irq.h" "pci_64.h" "rio.h" "msr-trace.h" "kaslr.h" "sections.h" "intel_punit_ipc.h" "apic_flat_64.h" "xen/" "mpspec.h" "proto.h" "pvclock.h" "local64.h" "hypervisor.h" "inst.h" "gart.h" "processor.h" "time.h" "cacheflush.h" "sysfb.h" "alternative-asm.h" "page_32_types.h" "syscalls.h" "timer.h" "exec.h" "realmode.h" "nmi.h" "Kbuild" "cpufeature.h" "intel_pmc_ipc.h" "pm-trace.h" "i8259.h" "mmu_context.h" "mwait.h" "pci.h" "clocksource.h" "serial.h" "perf_event_p4.h" "sighandling.h" "compat.h" "stackprotector.h" "microcode.h" "olpc_ofw.h" "archrandom.h" "crash.h" "uaccess_64.h" "page.h" "cpumask.h" "intel-mid.h" "intel-family.h" "probe_roms.h" "sys_ia32.h" "hugetlb.h" "setup_arch.h" "ce4100.h" "qrwlock.h" "cpu_device_id.h" "crypto/" "olpc.h" "numa.h" "posix_types.h" "user32.h" "string_64.h" "../" "./")
+
+ ("/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/arch/x86/include/" (22950 30750 0 0) "../" "./" "asm/" "uapi/")
+
+ ("/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/arch/x86/" (22950 30750 0 0) "oprofile/" ".gitignore" "boot/" "events/" "hyperv/" "math-emu/" "ia32/" "realmode/" "../" "mm/" "Kconfig.debug" "kernel/" "./" "lguest/" "pci/" "platform/" "include/" "video/" "Makefile.um" "Makefile_32.cpu" "lib/" "purgatory/" "um/" "configs/" "power/" "Kconfig" "net/" "ras/" "xen/" "Kconfig.cpu" "kvm/" "entry/" "Kbuild" "tools/" "Makefile" "crypto/")
+
+ ("/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/arch/" (22950 30750 0 0) "xtensa/" ".gitignore" "openrisc/" "sparc/" "parisc/" "../" "m32r/" "arm/" "./" "cris/" "arm64/" "blackfin/" "microblaze/" "um/" "metag/" "s390/" "mips/" "powerpc/" "unicore32/" "sh/" "nios2/" "h8300/" "score/" "tile/" "x86/" "hexagon/" "alpha/" "c6x/" "Kconfig" "m68k/" "ia64/" "frv/" "mn10300/" "arc/")
+
+ ("/home/frostfall/Course/OS/Linux4.12.10/" (22988 23981 835561 22000) "linux-4.12.10.tar.xz" "linux-4.12.10/" "../" "./")
+
+ ("/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/fs/f2fs/" (22950 30750 0 0) "trace.h" "extent_cache.c" "segment.h" "f2fs.h" "../" "./" "namei.c" "recovery.c" "file.c" "checkpoint.c" "node.h" "xattr.c" "debug.c" "trace.c" "dir.c" "segment.c" "xattr.h" "shrinker.c" "Kconfig" "acl.h" "hash.c" "gc.c" "node.c" "acl.c" "data.c" "Makefile" "super.c" "inode.c" "gc.h" "inline.c")
+
+ ("/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/fs/" (23115 15571 50491 105000) "exofs/" "nsfs.c" "Kconfig.binfmt" "eventpoll.c" "lockd/" "#fcntl.c#" "internal.h" "dcookies.c" "reiserfs/" "openpromfs/" "anon_inodes.c" "dlm/" "binfmt_script.c" "cramfs/" "fscache/" "binfmt_elf_fdpic.c" "posix_acl.c" "direct-io.c" "qnx6/" "nfs_common/" "autofs4/" "nls/" "open.c" "omfs/" "char_dev.c" "no-block.c" "nfs/" "binfmt_flat.c" "splice.c" "bfs/" "proc/" "hostfs/" "fs_struct.c" "filesystems.c" "devpts/" "btrfs/" "locks.c" "statfs.c" "block_dev.c" "proc_namespace.c" "adfs/" "hugetlbfs/" "binfmt_elf.c" "ncpfs/" "ext4/" "select.c" "userfaultfd.c" "bad_inode.c" "qnx4/" "file_table.c" "pstore/" "../" "orangefs/" "fs-writeback.c" "fat/" "gfs2/" "jfs/" "udf/" "./" "coredump.c" "exportfs/" "namei.c" "libfs.c" "cachefiles/" "file.c" "fs_pin.c" "stack.c" "ecryptfs/" "xattr.c" "binfmt_em86.c" "quota/" "exec.c" "coda/" "compat_binfmt_elf.c" "fuse/" "drop_caches.c" "readdir.c" "attr.c" "efivarfs/" "overlayfs/" "xfs/" "affs/" "jbd2/" "eventfd.c" "kernfs/" "aio.c" ".#fcntl.c" "buffer.c" "ufs/" "squashfs/" "configfs/" "pnode.c" "signalfd.c" "mbcache.c" "binfmt_misc.c" "seq_file.c" "fcntl.c" "compat.c" "timerfd.c" "nilfs2/" "efs/" "romfs/" "Kconfig" "afs/" "ubifs/" "isofs/" "ocfs2/" "debugfs/" "fhandle.c" "iomap.c" "ramfs/" "ext2/" "hpfs/" "mount.h" "cifs/" "read_write.c" "hfs/" "hfsplus/" "mpage.c" "utimes.c" "ioctl.c" "tracefs/" "sysv/" "9p/" "sync.c" "dcache.c" "nfsd/" "binfmt_aout.c" "ntfs/" "minix/" "namespace.c" "Makefile" "pipe.c" "super.c" "freevxfs/" "sysfs/" "inode.c" "f2fs/" "dax.c" "notify/" "pnode.h" "crypto/" "jffs2/" "stat.c" "compat_ioctl.c" "ceph/" "befs/")
+
+ ("/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/include/" (22950 30750 0 0) "target/" "math-emu/" "memory/" "dt-bindings/" "scsi/" "../" "linux/" "rxrpc/" "./" "video/" "clocksource/" "trace/" "keys/" "pcmcia/" "media/" "misc/" "acpi/" "rdma/" "net/" "ras/" "xen/" "drm/" "sound/" "soc/" "kvm/" "asm-generic/" "crypto/" "uapi/")
+
+ ("/home/frostfall/Course/OS/XV6/xv6-public/" (23115 6291 199788 820000) "rm.c" "ln.o" "ioapic.d" "kalloc.o" "zombie.o" "wc.d" "log.o" "_mkdir" "mp.d" "exec.o" "traps.h" "memide.c" "mkdir.sym" "uart.d" "log.c" "wc.asm" "console.c" "rm.o" "wc.c" "usys.o" "sleeplock.d" ".gitignore" "usertests.asm" "ide.c" "initcode" "_rm" "toc.ftr" "ln.c" "echo.o" "usys.S" "ioapic.c" "kernel.asm" "bootasm.o" "cat.asm" "vm.c" "stressfs.d" "initcode.o" "echo.sym" "printpcs" "proc.h" "init.c" "date.h" "_grep" "forktest.o" "umalloc.d" "ln.asm" "cat.o" "echo.d" "memlayout.h" "ln.sym" "gdbutil" "spinlockDump" "fcntl.h" "types.h" "exec.d" "proc.c" "#kernel.asm#" "ls.sym" "proc.o" "lapic.d" "ide.d" "mkdir.d" "sysproc.c" "bootmain.o" "sleeplock.c" "_wc" "dot-bochsrc" "file.d" "init.asm" "mkfs.c" "console.o" "bootmain.d" "init.d" "initcode.S" "stressfs.o" "fs.o" "initcode.d" "forktest.asm" "usertests.d" "_kill" "rm.sym" "_init" "mp.c" "picirq.c" ".gdbinit.tmpl" "mkdir.o" "_usertests" "asm.h" "usertests.c" "elf.h" "kbd.c" "entryother.o" "cat.c" "proc.d" "vectors.o" "grep.c" "kernel" "umalloc.o" "runoff" "stressfs.sym" "bootblockother.o" "entryother.d" "_zombie" "entryother.asm" "trap.o" "show1" "wc.o" "_forktest" "entry.o" "kill.d" "syscall.h" "sh.d" "grep.d" "umalloc.c" "bootblock" "x86.h" "symlink.patch" "console.d" "sysfile.c" "sh.sym" "bio.c" "kernel.ld" "trap.d" "mp.h" "vm.o" "file.c" "fs.img" "kernel.sym" "TRICKS" "printf.d" "stressfs.asm" "kbd.o" "uart.o" "_ln" "spinp" "BUGS" "defs.h" "cat.sym" "kill.sym" "kbd.d" "fs.h" "sysproc.d" "xv6.img" "bio.o" "README" "sign.pl" "bootblock.o" ".git/" "sleeplock.h" "bootblock.asm" "exec.c" "ls.o" "mkdir.c" "file.h" "ulib.d" "sleeplock.o" "printf.o" "_ls" "stat.h" "lapic.o" "grep.asm" "wc.sym" "kill.o" "sh.asm" "cuth" "param.h" "string.o" "vectors.pl" "user.h" "usertests.o" "#main.c#" "kill.c" "fs.c" "bootasm.d" "runoff1" "sysproc.o" "entryother.S" "swtch.S" "kalloc.d" "fs.d" "cat.d" "pr.pl" "stressfs.c" "sh.c" "main.c" "picirq.d" "rm.d" "picirq.o" "sysfile.d" "trapasm.o" "spinlock.h" "_echo" "echo.asm" "spinlock.o" "main.d" "mmu.h" "entryother" "vectors.S" "bio.d" "log.d" ".cvsignore" "main.o" "file.o" "grep.o" "ls.d" "grep.sym" "printf.c" "_sh" "runoff.spec" "ls.asm" "string.c" "kbd.h" "toc.hdr" "ioapic.o" "ide.o" "syscall.d" "spinlock.c" "forktest.c" "pipe.d" "trapasm.S" "mkfs" "initcode.asm" "sysfile.o" "LICENSE" "pipe.o" "echo.c" "mp.o" "rm.asm" "sh.o" "lapic.c" "string.d" "vm.d" "init.sym" "_cat" "swtch.o" "zombie.sym" "zombie.asm" "zombie.c" "bootmain.c" "ln.d" "init.o" "trap.c" "sleep1.p" ".dir-locals.el" "ncli" "ls.c" "zombie.d" "mkdir.asm" "buf.h" "kill.asm" "Makefile" "pipe.c" "ulib.c" "usertests.sym" "initcode.out" "Notes" ".gdbinit" "ulib.o" "runoff.list" "forktest.d" "kalloc.c" "bootasm.S" "syscall.c" "uart.c" "_stressfs" "syscall.o" "entry.S" "spinlock.d" "../" "./")
+
+ ("/home/frostfall/Desktop/Homework13/" (23115 10087 674420 893000) "readme" "../" "./" "file" "LabCali.md" "file.c" "Lab03.md" "2015K8009915050_熊子威_13.zip" "readme~" "file.c~" "cali.png" "homework13.txt")
+
+ ("/home/frostfall/Course/OS/Linux4.12.10/linux-4.12.10/include/linux/" (23115 14679 217630 963000) "lzo.h" "mm_inline.h" "i8253.h" "pnfs_osd_xdr.h" "if_tunnel.h" "sock_diag.h" "hyperv.h" "if_ether.h" "altera_uart.h" "cn_proc.h" "bottom_half.h" "torture.h" "if_phonet.h" "via.h" "isapnp.h" "kexec.h" "fpga/" "integrity.h" "ks0108.h" "w1-gpio.h" "siphash.h" "rmap.h" "of_fdt.h" "parman.h" "zpool.h" "pid_namespace.h" "mutex.h" "leds-pca9532.h" "srcu.h" "capability.h" "ptp_classify.h" "page-flags-layout.h" "dma_remapping.h" "i2c-ocores.h" "lockd/" "thinkpad_acpi.h" "ip.h" "fscache-cache.h" "rio_regs.h" "license.h" "crash_dump.h" "ppp_channel.h" "netpoll.h" "vlynq.h" "vt_buffer.h" "rbtree_latch.h" "trace_seq.h" "irqchip/" "altera_jtaguart.h" "ipmi.h" "rcu_sync.h" "i2c-mux.h" "dma-fence.h" "sh_dma.h" "sfi.h" "pkeys.h" "dma/" "miscdevice.h" "apm_bios.h" "backlight.h" "ftrace_irq.h" "trace.h" "unaligned/" "pr.h" "mc146818rtc.h" "resource.h" "mISDNdsp.h" "sxgbe_platform.h" "zutil.h" "rwlock.h" "dma-fence-array.h" "user-return-notifier.h" "tfrc.h" "coresight-pmu.h" "i2c-pnx.h" "ipmi_smi.h" "of_mdio.h" "gfp.h" "thermal.h" "huge_mm.h" "list_sort.h" "sys.h" "hdlcdrv.h" "eeprom_93cx6.h" "netfilter_bridge.h" "extcon/" "dm-dirty-log.h" "list.h" "bcma/" "fsl/" "math64.h" "uio_driver.h" "agpgart.h" "vexpress.h" "swapops.h" "util_macros.h" "fs_struct.h" "auxvec.h" "rculist_nulls.h" "jhash.h" "cnt32_to_63.h" "ihex.h" "alarmtimer.h" "tpm_command.h" "time64.h" "leds-regulator.h" "blockgroup_lock.h" "linkage.h" "lightnvm.h" "lguest_launcher.h" "i2c-mux-pinctrl.h" "mtd/" "hash.h" "cpu_pm.h" "mlx4/" "cciss_ioctl.h" "nfs_page.h" "libfdt.h" "sctp.h" "devfreq.h" "task_io_accounting.h" "wm97xx.h" "atmel_pdc.h" "swap.h" "omap-iommu.h" "remoteproc/" "quotaops.h" "openvswitch.h" "mvebu-pmsu.h" "efs_vh.h" "bpf.h" "of_platform.h" "nvram.h" "bvec.h" "b1pcmcia.h" "arm-cci.h" "bitops.h" "elevator.h" "bpf-cgroup.h" "dns_resolver.h" "pci-epf.h" "jz4780-nemc.h" "mbus.h" "log2.h" "sched/" "iomap.h" "fsi.h" "cb710.h" "inotify.h" "genhd.h" "latencytop.h" "isdn/" "mISDNhw.h" "cmdline-parser.h" "net.h" "syscore_ops.h" "fcdevice.h" "sfi_acpi.h" "mmdebug.h" "bcd.h" "circ_buf.h" "crc16.h" "hpet.h" "buffer_head.h" "fcntl.h" "decompress/" "list_lru.h" "f2fs_fs.h" "interval_tree_generic.h" "of_net.h" "string.h" "ioprio.h" "leds-bd2802.h" "list_nulls.h" "types.h" "nfs_fs_i.h" "tty_flip.h" "bug.h" "rtnetlink.h" "memstick.h" "debugobjects.h" "irqbypass.h" "kmsg_dump.h" "pwm_backlight.h" "virtio_ring.h" "pci_ids.h" "nfs4.h" "firmware/" "elfcore-compat.h" "phonet.h" "if_eql.h" "pxa168_eth.h" "asn1_ber_bytecode.h" "leds.h" "rndis.h" "serial_8250.h" "posix_acl_xattr.h" "mdio-mux.h" "parport_pc.h" "serial_pnx8xxx.h" "dmapool.h" "rfkill.h" "radix-tree.h" "max17040_battery.h" "bootmem.h" "drbd_genl.h" "pfn.h" "phy.h" "leds-tca6507.h" "apple_bl.h" "digsig.h" "usb/" "property.h" "udp.h" "fs_pin.h" "securebits.h" "bcm47xx_sprom.h" "devpts_fs.h" "in6.h" "ras.h" "apple-gmux.h" "mdev.h" "l2tp.h" "hid-debug.h" "htirq.h" "mpi.h" "power_supply.h" "lru_cache.h" "frame.h" "mroute.h" "errqueue.h" "wait.h" "path.h" "mailbox_controller.h" "pm_domain.h" "pci-ep-cfs.h" "stm.h" "delayacct.h" "taskstats_kern.h" "cs5535.h" "fb.h" "stmmac.h" "ima.h" "lguest.h" "journal-head.h" "errno.h" "context_tracking.h" "iova.h" "tracehook.h" "isdnif.h" "smp.h" "netfilter_defs.h" "kvm_para.h" "of_address.h" "stop_machine.h" "coredump.h" "ccp.h" "poll.h" "stacktrace.h" "amifdreg.h" "rcupdate_wait.h" "pm_wakeirq.h" "stddef.h" "stringify.h" "extable.h" "cpu_cooling.h" "kernel-page-flags.h" "lcd.h" "binfmts.h" "mnt_namespace.h" "ssbi.h" "t10-pi.h" "nfs.h" "clock_cooling.h" "pfn_t.h" "psci.h" "superhyway.h" "signal.h" "i2c-smbus.h" "igmp.h" "posix-clock.h" "netfilter_ipv4.h" "genl_magic_struct.h" "elf-fdpic.h" "pxa2xx_ssp.h" "mmc/" "timekeeping.h" "livepatch.h" "cyclades.h" "vm_sockets.h" "htcpld.h" "amifd.h" "remoteproc.h" "dw_apb_timer.h" "sed-opal.h" "msg.h" "dmaengine.h" "rtc/" "timecounter.h" "ktime.h" "proc_fs.h" "hdlc.h" "fscrypt_supp.h" "timb_gpio.h" "kfifo.h" "bpf_trace.h" "projid.h" "hid-roccat.h" "dma-contiguous.h" "videodev2.h" "delay.h" "utsname.h" "reset/" "netdevice.h" "context_tracking_state.h" "virtio_console.h" "hdmi.h" "i2c/" "devfreq-event.h" "virtio_caif.h" "frontswap.h" "ww_mutex.h" "nl802154.h" "of_pci.h" "of_dma.h" "socket.h" "i2c.h" "mmzone.h" "preempt.h" "iommu.h" "smsc911x.h" "isdn.h" "highuid.h" "asn1_decoder.h" "reset.h" "assoc_array_priv.h" "elf.h" "hwmon.h" "zconf.h" "irqhandler.h" "timerqueue.h" "iommu-helper.h" "irqdomain.h" "icmp.h" "cpufreq.h" "memcontrol.h" "mc6821.h" "in.h" "bsg.h" "pci-acpi.h" "uwb/" "serial_core.h" "jump_label.h" "nvme-fc.h" "selection.h" "sbitmap.h" "prime_numbers.h" "vermagic.h" "win_minmax.h" "platform_data/" "percpu.h" "btree.h" "clockchips.h" "nsproxy.h" "parport.h" "spinlock_api_smp.h" "pagevec.h" "genetlink.h" "backing-dev.h" "clkdev.h" "sysrq.h" "fd.h" "freezer.h" "kernel.h" "iscsi_ibft.h" "ecryptfs.h" "powercap.h" "swait.h" "average.h" "console_struct.h" "pm_qos.h" "leds_pwm.h" "aio.h" "qed/" "fanotify.h" "i2c-omap.h" "lcm.h" "atm.h" "cryptohash.h" "spinlock_up.h" "mei_cl_bus.h" "key.h" "edac.h" "nodemask.h" "fsl_hypervisor.h" "hwmon-vid.h" "iopoll.h" "pstore.h" "pid.h" "textsearch.h" "vm_event_item.h" "marvell_phy.h" "ns_common.h" "cache.h" "bpf_types.h" "btrfs.h" "ata.h" "btree-128.h" "microchipphy.h" "tifm.h" "osq_lock.h" "brcmphy.h" "vt_kern.h" "auto_dev-ioctl.h" "bsg-lib.h" "blk_types.h" "writeback.h" "pstore_ram.h" "ksm.h" "llist.h" "crush/" "bitfield.h" "bpf_verifier.h" "fips.h" "efi-bgrt.h" "kobject_ns.h" "nvmem-provider.h" "swiotlb.h" "perf_regs.h" "i2c-pxa.h" "tcp.h" "static_key.h" "kernel_stat.h" "irqflags.h" "irqnr.h" "shrinker.h" "extcon.h" "nvme.h" "rwsem.h" "mm_types_task.h" "rcutiny.h" "raid/" "dma-buf.h" "sh_eth.h" "nsc_gpio.h" "coresight.h" "attribute_container.h" "genl_magic_func.h" "omap-mailbox.h" "dma-iommu.h" "sysctl.h" "kmemcheck.h" "sched_clock.h" "swap_slots.h" "pnp.h" "slub_def.h" "acpi.h" "lz4.h" "acpi_iort.h" "purgatory.h" "s3c_adc_battery.h" "padata.h" "regulator/" "fscache.h" "sys_soc.h" "ipc_namespace.h" "rio_drv.h" "sort.h" "hil.h" "stringhash.h" "random.h" "sm501.h" "hwmon-sysfs.h" "seg6_genl.h" "threads.h" "shm.h" "of.h" "bit_spinlock.h" "sdb.h" "rculist_bl.h" "slab.h" "tsacct_kern.h" "dm-region-hash.h" "gpio/" "pim.h" "cacheinfo.h" "spinlock_types_up.h" "edd.h" "serio.h" "if_ltalk.h" "wireless.h" "gcd.h" "migrate_mode.h" "io-mapping.h" "kbd_kern.h" "soundcard.h" "uidgid.h" "cper.h" "perf/" "sh_intc.h" "bitmap.h" "auto_fs.h" "pm.h" "page-flags.h" "reset-controller.h" "uprobes.h" "gameport.h" "sm501-regs.h" "libps2.h" "rio_ids.h" "dm9000.h" "hw_breakpoint.h" "usb.h" "fixp-arith.h" "pwm.h" "ste_modem_shm.h" "device.h" "fsl-diu-fb.h" "olpc-ec.h" "ide.h" "blkdev.h" "percpu-refcount.h" "kcore.h" "semaphore.h" "uts.h" "mic_bus.h" "sony-laptop.h" "pci_hotplug.h" "elfnote.h" "transport_class.h" "ssb/" "completion.h" "sdla.h" "poison.h" "netfilter.h" "blkpg.h" "btree-type.h" "jump_label_ratelimit.h" "list_bl.h" "intel-iommu.h" "via-gpio.h" "initrd.h" "dma-debug.h" "device-mapper.h" "slab_def.h" "of_iommu.h" "zbud.h" "genalloc.h" "device_cgroup.h" "u64_stats_sync.h" "parser.h" "bma150.h" "vga_switcheroo.h" "fec.h" "cdrom.h" "node.h" "i2c-xiic.h" "efi.h" "hidraw.h" "err.h" "fs.h" "kgdb.h" "aer.h" "irq_work.h" "statfs.h" "rculist.h" "if_team.h" "dma-direction.h" "quicklist.h" "dcookies.h" "futex.h" "sysfs.h" "cfag12864b.h" "timex.h" "jbd2.h" "ntb.h" "kdebug.h" "cpu.h" "sw842.h" "ipack.h" "hil_mlc.h" "llc.h" "dma-mapping.h" "i2c-gpio.h" "ucs2_string.h" "mempolicy.h" "msi.h" "kbd_diacr.h" "serial_max3100.h" "ramfs.h" "pci-dma.h" "flex_proportions.h" "srcuclassic.h" "mailbox/" "scx200_gpio.h" "qcom_scm.h" "etherdevice.h" "container.h" "kprobes.h" "irqdesc.h" "wkup_m3_ipc.h" "compiler-intel.h" "posix_acl.h" "uaccess.h" "mroute6.h" "nfs_xdr.h" "if_tun.h" "hrtimer.h" "platform_device.h" "seqno-fence.h" "fs_enet_pd.h" "hugetlb_inline.h" "blk-cgroup.h" "textsearch_fsm.h" "dm-kcopyd.h" "tracefs.h" "debug_locks.h" "anon_inodes.h" "io.h" "if_frad.h" "export.h" "serial_s3c.h" "lockdep.h" "backing-dev-defs.h" "assoc_array.h" "sirfsoc_dma.h" "if_fddi.h" "file.h" "clk/" "srcutiny.h" "if_pppol2tp.h" "seg6.h" "dcache.h" "init_ohci1394_dma.h" "cordic.h" "led-class-flash.h" "keyboard.h" "topology.h" "smc91x.h" "micrel_phy.h" "dirent.h" "dell-led.h" "ftrace.h" "ntb_transport.h" "getcpu.h" "inet_diag.h" "tty_ldisc.h" "coda_psdev.h" "page_counter.h" "ptrace.h" "stmp3xxx_rtc_wdt.h" "stat.h" "mpage.h" "nfs3.h" "mdio.h" "io-64-nonatomic-hi-lo.h" "oid_registry.h" "blktrace_api.h" "suspend.h" "moduleparam.h" "hippidevice.h" "input-polldev.h" "f75375s.h" "crc-t10dif.h" "count_zeros.h" "skb_array.h" "phy/" "configfs.h" "i2c-algo-pca.h" "tboot.h" "sungem_phy.h" "blk-mq-pci.h" "patchkey.h" "hid-sensor-hub.h" "spinlock_types.h" "tee_drv.h" "kasan.h" "atm_tcp.h" "hp_sdc.h" "pagemap.h" "kvm_host.h" "reboot.h" "rcupdate.h" "wimax/" "user.h" "crypto.h" "highmem.h" "gpio-fan.h" "netfilter_ipv6.h" "dmi.h" "uinput.h" "coresight-stm.h" "of_graph.h" "phy_fixed.h" "lockref.h" "profile.h" "security.h" "memory.h" "tpm.h" "netfilter_ipv4/" "iscsi_boot_sysfs.h" "dmar.h" "adb.h" "cm4000_cs.h" "n_r3964.h" "quota.h" "hardirq.h" "timb_dma.h" "virtio_vsock.h" "via-core.h" "iommu-common.h" "earlycpio.h" "oxu210hp.h" "kref.h" "perf_event.h" "atmel-mci.h" "ppp-comp.h" "mv643xx_i2c.h" "ahci-remap.h" "power/" "pch_dma.h" "mlx5/" "scc.h" "eisa.h" "input/" "vme.h" "reciprocal_div.h" "serial_sci.h" "cpuhotplug.h" "i7300_idle.h" "zlib.h" "rhashtable.h" "shmem_fs.h" "pda_power.h" "notifier.h" "compiler.h" "mempool.h" "mpls_iptunnel.h" "goldfish.h" "mmiotrace.h" "isa.h" "msdos_fs.h" "seg6_hmac.h" "ieee802154.h" "crc32c.h" "i2c-dev.h" "pinctrl/" "cdev.h" "crc32.h" "rbtree_augmented.h" "sizes.h" "gpio.h" "thread_info.h" "lp.h" "root_dev.h" "ptp_clock_kernel.h" "kdev_t.h" "lsm_hooks.h" "pcieport_if.h" "hugetlb_cgroup.h" "ieee80211.h" "host1x.h" "rcuwait.h" "ulpi/" "vmw_vmci_defs.h" "usbdevice_fs.h" "string_helpers.h" "netlink.h" "devfreq_cooling.h" "sunrpc/" "consolemap.h" "memremap.h" "acct.h" "xz.h" "kcov.h" "kbuild.h" "netfilter_bridge/" "iocontext.h" "reservation.h" "jiffies.h" "spmi.h" "hwspinlock.h" "srcutree.h" "cgroup.h" "sysv_fs.h" "hsi/" "asn1.h" "page-isolation.h" "atomic.h" "cred.h" "nvmem-consumer.h" "gpio_keys.h" "fsldma.h" "hiddev.h" "crc7.h" "relay.h" "pata_arasan_cf_data.h" "virtio_byteorder.h" "sound.h" "ucb1400.h" "trace_events.h" "sunxi-rsb.h" "joystick.h" "fscrypt_notsupp.h" "if_bridge.h" "atm_suni.h" "ti_wilink_st.h" "ipv6_route.h" "pvclock_gtod.h" "virtio_net.h" "apm-emulation.h" "ipv6.h" "irq.h" "selinux.h" "atmdev.h" "pci-ats.h" "xattr.h" "zorro.h" "ks8842.h" "if_macvlan.h" "splice.h" "swab.h" "dqblk_qtree.h" "lapb.h" "spinlock.h" "adfs_fs.h" "interval_tree.h" "sync_file.h" "watchdog.h" "rslib.h" "init.h" "nd.h" "maple.h" "libfdt_env.h" "io-64-nonatomic-lo-hi.h" "jz4740-adc.h" "8250_pci.h" "start_kernel.h" "kvm_types.h" "i8042.h" "ratelimit.h" "vmpressure.h" "memblock.h" "page_owner.h" "dlm_plock.h" "kvm_irqfd.h" "if_link.h" "elf-randomize.h" "sudmac.h" "mii.h" "timerfd.h" "hw_random.h" "pl320-ipc.h" "cpuidle.h" "coda.h" "timekeeper_internal.h" "tca6416_keypad.h" "hid.h" "toshiba.h" "ioc3.h" "kobj_map.h" "virtio.h" "task_io_accounting_ops.h" "vringh.h" "dynamic_queue_limits.h" "ioc4.h" "i2c-pca-platform.h" "pps_kernel.h" "evm.h" "rtc.h" "rmi.h" "percpu-defs.h" "a.out.h" "vmacache.h" "mv643xx_eth.h" "kallsyms.h" "edma.h" "pmem.h" "tracepoint.h" "ipc.h" "mod_devicetable.h" "elfcore.h" "rpmsg/" "scatterlist.h" "bio.h" "crc-itu-t.h" "sh_timer.h" "trace_clock.h" "cgroup_subsys.h" "serial_bcm63xx.h" "isicom.h" "seccomp.h" "ioport.h" "async.h" "mfd/" "cpuset.h" "bch.h" "clk.h" "ext2_fs.h" "ppp_defs.h" "verification.h" "gpio-pxa.h" "pci-dma-compat.h" "pm_opp.h" "z2_battery.h" "scx200.h" "refcount.h" "once.h" "moduleloader.h" "rational.h" "mm.h" "pageblock-flags.h" "mpls.h" "cpu_rmap.h" "sa11x0-dma.h" "ring_buffer.h" "hid-sensor-ids.h" "pci-ecam.h" "module.h" "rpmsg.h" "nfsacl.h" "i2c-algo-pcf.h" "dm-io.h" "kernelcapi.h" "kmod.h" "eventpoll.h" "rio.h" "userfaultfd_k.h" "cgroup_rdma.h" "posix-timers.h" "tc.h" "uio.h" "dca.h" "seg6_iptunnel.h" "mdio-bitbang.h" "kobject.h" "compiler-clang.h" "vmw_vmci_api.h" "eeprom_93xx46.h" "enclosure.h" "personality.h" "nfs_fs.h" "rwsem-spinlock.h" "restart_block.h" "stackdepot.h" "migrate.h" "cleancache.h" "printk.h" "glob.h" "atalk.h" "async_tx.h" "pktcdvd.h" "compiler-gcc.h" "delayed_call.h" "fdtable.h" "of_gpio.h" "key-type.h" "netdev_features.h" "fddidevice.h" "flex_array.h" "swap_cgroup.h" "mount.h" "kern_levels.h" "font.h" "blk-mq-virtio.h" "idr.h" "of_device.h" "dnotify.h" "uuid.h" "sem.h" "nvme-fc-driver.h" "netfilter_ingress.h" "signal_types.h" "bcm963xx_tag.h" "yam.h" "kernfs.h" "mm_types.h" "raid_class.h" "fsnotify.h" "usb_usual.h" "balloon_compaction.h" "exportfs.h" "iio/" "atmel-ssc.h" "percpu_counter.h" "mISDNif.h" "omap-dmaengine.h" "mm-arch-hooks.h" "cuda.h" "hypervisor.h" "lis3lv02d.h" "seq_file.h" "isdn_ppp.h" "fs_stack.h" "eventfd.h" "screen_info.h" "mbcache.h" "wanrouter.h" "i2c-mux-gpio.h" "isdn_divertif.h" "intel-svm.h" "percpu_ida.h" "fsl_devices.h" "page_idle.h" "soc/" "linux_logo.h" "bsearch.h" "irq_poll.h" "typecheck.h" "dynamic_debug.h" "sched.h" "oom.h" "compaction.h" "time.h" "crc8.h" "of_pdt.h" "sonet.h" "kdb.h" "if_pppox.h" "leds-lp3944.h" "badblocks.h" "wl12xx.h" "nvme-rdma.h" "sh_clk.h" "irqchip.h" "drbd_genl_api.h" "bcm47xx_wdt.h" "syscalls.h" "timer.h" "rcutree.h" "crash_core.h" "bcm47xx_nvram.h" "rxrpc.h" "serdev.h" "dqblk_v1.h" "khugepaged.h" "arm-smccc.h" "firewire.h" "omap-gpmc.h" "virtio_config.h" "workqueue.h" "mman.h" "swapfile.h" "pipe_fs_i.h" "pci-epc.h" "netfilter_arp/" "if_tap.h" "console.h" "ethtool.h" "pti.h" "nls.h" "pm_wakeup.h" "nmi.h" "range.h" "cpufeature.h" "acpi_dma.h" "dtlk.h" "skbuff.h" "seq_buf.h" "kthread.h" "klist.h" "inet.h" "ptr_ring.h" "mxm-wmi.h" "nfs_fs_sb.h" "tty.h" "rbtree.h" "vtime.h" "ipmi-fru.h" "fsl_ifc.h" "libnvdimm.h" "audit.h" "tty_driver.h" "rtmutex.h" "oprofile.h" "syslog.h" "rwlock_api_smp.h" "filter.h" "memory_hotplug.h" "kmemleak.h" "vfs.h" "pm2301_charger.h" "plist.h" "sonypi.h" "pm-trace.h" "clk-provider.h" "firmware.h" "proc_ns.h" "mmu_context.h" "fault-inject.h" "ata_platform.h" "leds-lp3952.h" "byteorder/" "fsnotify_backend.h" "timeriomem-rng.h" "hashtable.h" "cgroup-defs.h" "mmu_notifier.h" "page_ref.h" "led-lm3530.h" "dccp.h" "vmstat.h" "can/" "pci.h" "clocksource.h" "inetdevice.h" "synclink.h" "nubus.h" "regmap.h" "davinci_emac.h" "serial.h" "uwb.h" "qnx6_fs.h" "interrupt.h" "bcm963xx_nvram.h" "sunserialcore.h" "kd.h" "of_reserved_mem.h" "smscphy.h" "smpboot.h" "ahci_platform.h" "spinlock_api_up.h" "tracepoint-defs.h" "input.h" "compat.h" "dio.h" "c2port.h" "stackprotector.h" "irqreturn.h" "connector.h" "pm_clock.h" "svga.h" "atmel_tc.h" "libata.h" "prefetch.h" "rwlock_types.h" "init_task.h" "bitrev.h" "fmc.h" "if_arp.h" "i2c-algo-bit.h" "agp_backend.h" "cma.h" "rcu_node_tree.h" "vt.h" "signalfd.h" "cpumask.h" "ctype.h" "fwnode.h" "dax.h" "acpi_pmtmr.h" "mv643xx.h" "percpu-rwsem.h" "mailbox_client.h" "icmpv6.h" "lsm_audit.h" "pm_runtime.h" "of_irq.h" "regset.h" "pmu.h" "phy_led_triggers.h" "scpi_protocol.h" "flat.h" "via_i2c.h" "hugetlb.h" "tick.h" "blk-mq.h" "omap-dma.h" "amd-iommu.h" "debugfs.h" "task_work.h" "drbd_limits.h" "concap.h" "seq_file_net.h" "nfs_iostat.h" "ks8851_mll.h" "ath9k_platform.h" "netfilter/" "firmware-map.h" "vmalloc.h" "resource_ext.h" "pe.h" "component.h" "kasan-checks.h" "vgaarb.h" "shdma-base.h" "fmc-sdb.h" "pps-gpio.h" "fs_uart_pd.h" "dlm.h" "drbd.h" "if_vlan.h" "stmp_device.h" "scif.h" "mcb.h" "page_ext.h" "vfio.h" "zsmalloc.h" "bfin_mac.h" "rodata_test.h" "sram.h" "numa.h" "smc911x.h" "falloc.h" "namei.h" "seqlock.h" "fscrypt_common.h" "spi/" "devcoredump.h" "omapfb.h" "rcu_segcblist.h" "ds2782_battery.h" "user_namespace.h" "pci-aspm.h" "kconfig.h" "ceph/" "netfilter_ipv6/" "dqblk_v2.h" "gpio_mouse.h" "crc-ccitt.h" "irq_cpustat.h" "amba/" "../" "./")
+
+ ("/home/frostfall/Desktop/OSLabFile/Github/P6/Project6-File-System/project6-start-code/" (23107 32553 65655 569000) ".gitignore" "fuse-main.c" "../" "common.h" "example/" "./" "disk.c" "logging.c" "lib/" "disk.h" "logging.h" "common.c" "Makefile")
+
+ ("/home/frostfall/NewYearWishes/" (23113 8361 250093 151000) "../" "./" "Wishes.log" "Wishes.tex~" "Wishes.aux" "Wishes.pdf" "Wishes.tex")
+
+ ("/home/frostfall/Course/OS/XV6/" (23033 14565 378350 233000) ".gitignore" "README.md" ".gdbinit.tmpl" "xv6-public/" ".git/" "toolkit_release.zip" "reading/" ".cvsignore" "playing/" "xv6-rev10.pdf" "book-rev10.pdf" ".dir-locals.el" ".gdbinit" "../" "./")
+
+ ("/home/frostfall/Course/" (23107 25032 185310 10000) "Algorithm/" "DL/" "ML/" "../" "AI/" "./" "OS/" "CA/")
+
+ ("/home/frostfall/Desktop/OSLabFile/Github/P6/Project6-File-System/" (23107 32255 288012 937000) "notesForImplementations.md~" "../" "./" "参考文档/" "notesForImplementations.md" "加分项 - FS操作-SSD友好的FS.pdf" "Project 6 预备知识.pdf" "任务一 - 基于FUSE的文件系统.pdf" "project6-start-code/")
+
+ ("/home/frostfall/Course/OS/HomeworkXII/" (23105 60950 55472 181000) "2015K8009915050_熊子威_12.pdf" "answer.aux" "../" "answer.pdf" "./" "answer.tex~" "answer.tex" "answer.log" "texput.log")
+
+ ("/home/frostfall/Desktop/OSLabFile/Github/P6/Project6-File-System/参考文档/" (23106 4621 311852 451000) "../" "./" "fast2015.c.lee.pdf")
+
+ ("/home/frostfall/Desktop/OSLabFile/Github/P6/" (23106 4621 299852 400000) "../" "./" "Project6-File-System/")
+
+ ("/home/frostfall/Desktop/OSLabFile/Github/" (23106 4621 299852 400000) "P2/" "P6/" "../" "./" "P5/" "P4/" "P3/" "README" ".git/" "P1/")
+
+ ("/home/frostfall/Course/CA/ChapterVIII/" (23030 43030 906704 964000) "HomeworkVIII.log" "HomeworkVIII.pdf" "../" "./" "HomeworkVIII.tex~" "HomeworkVIII.tex" "HomeworkVIII.aux" "texput.log")
+
+ ("/home/frostfall/Course/OS/Lab/" (23103 45924 488913 774000) "project5.tex~" "project5.pdf" "../" "./" "project5.aux" "project5.log" "project5.tex" "texput.log")
+
+ ("/home/frostfall/Desktop/P5/" (23103 46018 998222 304000) "process2" "interrupt.c" "syslib.h" "memory.h~" "test_barrier" "kernel.c~" "printf.h" "kernel.c" "cscope.out" "floppy.img" "memory.c" "empty" "cscope.po.out" "letters.md~" "project5.pdf" "ld.script" "barrier_test.c" "obj.sh" "process1.c" "scheduler.h" "process2_dump" "DebugList" "util.o" "asm.h" "../" "scheduler.c~" "common.h" "kernel.h" "kernel" "tasks.c" "DebugList~" "bootblock" "./" "th2.c" "process2.c" "process1" "bootblock.S" "image" "scheduler.c" "syslib.o" "createimage" "syslib.c" "back" "settest" "cp0regdefs.h" "queue.h" "#memory.#" "memory.h" "memory.c~" "helper.S" "philosophers.c" "syscall.S" "letters.md" "sync.h" "util.h" "entry.S~" "test.md" "th.h" "printf.c" "2015K8009915050_熊子威_P5.zip" "printk.h" "queue.c" "printk.c" "tags" "process1.o" "freestanding-inc/" "th1.c" "interrupt.c~" "regs.h" "print.h" "createimage.c" "process2.o" "sync.c" "util.c" "process1_dump" "cscope.in.out" "interrupt.h" "Makefile" "test_regs" "kernel_dump" "print.c" "entry.S")
+
+ ("/home/frostfall/Course/CA/ChapterXV/" (23104 36667 319578 890000) "15.pdf" "answer.aux" "../" "./" "answer.tex~" "answer.tex" "answer.log" "texput.log")
+
+ ("/home/frostfall/GoSpace/src/github.com/Dicridon/Learning/" (23104 38554 368399 748000) "concurrency.go" "concurrency.go~" "../" "./")
+
+ ("/home/frostfall/Course/CA/" (23103 45582 357779 237000) "Lab/" "ChapterXIV/" "ChapterXV/" "ChapterVIIX/" "../" "./" "Lab03.md" "spec2000-all/" "Lab03.md~" "spec2000.tar.gz" "ChapterVII/" "ChapterVIII/")
+
+ ("/home/frostfall/Course/OS/HomeworkVI/" (23032 30130 313999 949000) "deadlock.log" "../" "deadlock.aux" "./" "deadlock.pdf" "deadlock.tex" "deadlock.tex~" "texput.log")
+
+ ("/home/frostfall/Course/OS/" (23103 25320 23067 352000) "HomeworkII/" "Lab/" "HomeworkVII/" "Untitled 1.odp" "../" "./" "OS/" "Linux4.12.10/" "SourceCodeAnalysis/" "HomeworkV/" "HomeworkXII/" "HomeworkIV/" "HomeworkVI/" "XV6/" "HomeworkIII/" "OS_ref" "VM/")
+
+ ("/home/frostfall/GoSpace/src/github.com/Dicridon/" (23100 48780 179892 328000) "../" "./" "Learning/")
+
+ ("/home/frostfall/GoSpace/src/github.com/Dicridon/mymath/" (23100 45453 994372 686000) "../" "./" "mymath.go" "Math.go~")
+
+ ("/home/frostfall/GoSpace/src/github.com/Dicridon/Math/" (23100 45313 819144 749000) "../" "./")
+
+ ("/home/frostfall/GoSpace/src/github.com/Dicridon/Learning/MATH/" (23100 45197 827582 654000) "MATH.go~" "../" "./" "MATH.go")
+
+ ("/home/frostfall/Course/Algorithm/HomeworkII/" (23016 30375 67959 154000) "HomeworkII.aux" "HomeworkI.pdf" "HomeworkI.tex~" "HomeworkII.tex~" "../" "./" "HomeworkII.log" "HomeworkI.aux" "HomeworkII.tex" "HomeworkI.log" "HomeworkII.pdf" "texput.log")
+
+ ("/home/frostfall/Course/CA/Lab/Lab007-2/myCPU/" (23093 17727 0 0) "stage5_writeback.v" "gadget_FullAdder.v" "gadget_mmu_tlb.v" "gadget_UnalignedWrite.v" "control_cp0 (2).v~" "../" "gadget_nextpc_gen.v" "stage3_execute.v" "./" "control_decode.v" "control_forward_block.v" "control_cpu_axi_interface_v2.v" "stage3.5_cp0.v" "gadget_Divider.v" "top_mycpu_with_interface.v" "cp0regdefs.h" "gadget_32bit_Booth.v" "control_cp0.v~" "ls132r_define.h" "lab6.todo" "stage1_fetch.v" "gadget_UnalignedWrite.v~" "control_cpu_axi_interface_v3.v" "gadget_Multi_top.v" "control_cpu_axi_interface_v4.v" "mycpu_top.v" "gadget_alu.v" "control_pipe.v" "stage2_decode.v" "control_decode.v~" "control_cp0.v" "gadget_regfile_2r1w.v" "regs.h" "gadget_wbDataSelector.v" "control_sram.v" "decode_alu_define.h" "stage4_memory.v" "lab7-2.todo" "gadget_ArthmaticTop.v" "gadget_Wallace.v" "gadget_HalfAdder.v" "control_stmc_shaking_v2.v")
+
+ ("/home/frostfall/Desktop/OSLabFile/Github/P5/Project5-Virtual-Memory/project5_start_code/" (23094 3759 647006 832000) "interrupt.c" "syslib.h" "test_barrier" "printf.h" "kernel.c" "cscope.out" "memory.c" "empty" "cscope.po.out" "ld.script" "barrier_test.c" "obj.sh" "process1.c" "scheduler.h" "DebugList" "asm.h" "../" "common.h" "kernel.h" "tasks.c" "DebugList~" "./" "th2.c" "process2.c" "bootblock.S" "scheduler.c" "syslib.c" "settest" "cp0regdefs.h" "queue.h" "memory.h" "helper.S" "philosophers.c" "syscall.S" "sync.h" "util.h" "th.h" "printf.c" "printk.h" "queue.c" "printk.c" "tags" "freestanding-inc/" "th1.c" "regs.h" "print.h" "createimage.c" "sync.c" "util.c" "cscope.in.out" "interrupt.h" "Makefile" "test_regs" "print.c" "entry.S")
+
+ ("/home/frostfall/Course/CA/ChapterXIV/13/" (23095 26704 270764 271000) "9.png" "2015K8009922002_鐜嬭嫅閾甠13.synctex.gz(busy)" "2015K8009922002_王苑铮_13.aux" "13.xlsx" "../" "图.pptx" "4.png" "./" "1.png" "2.png" "2015K8009922002_王苑铮_13.log" "~$13.xlsx" "2015K8009922002_王苑铮_13.out" "2015K8009922002_王苑铮_13.tex" "7.png" "2015K8009922002_王苑铮_13.pdf" "3.png" "6.png" "2015K8009922002_王苑铮_13.tex~")
+
+ ("/home/frostfall/Course/CA/ChapterXIV/" (23095 23980 256229 460000) "9.png" "answer.aux" "matrix" "13.rar" "../" "answer.pdf" "4.png" "./" "1.png" "2.png" "answer.tex~" "answer.tex" "matrix.c~" "matrix_4_threads.png" "13/" "answer.log" "matrix_two_thread.png" "7.png" "3.png" "6.png" "matrix.c" "texput.log")
+
+ ("/home/frostfall/Course/ML/TuringTest_ML/" (23096 44293 916512 884000) "SVM.py" "tf_N.txt" "document.md~" "dataPreProcess_LDA.pyc" "punctuation.txt" "LogisticRegression.py" "../" "./" "start.sh~" "docList.txt" "dataPreProcess_LDA.py" "start.py" "start.py~" "Xilinx_Vivado_SDK_2017.1_0415_1_Lin64.bin" "LDA.py~" "test.py~" "SVM.pyc" "tf_P.txt" "train.tsv" "start.sh" "LDA.pyc" "test.pyc" "LDA.py" "LogisticRegression.py~" "document.md" "AdaBoost.py" "AdaBoost.py~" "TuringTest_ML.zip")
+
+ ("/home/frostfall/Desktop/OSLabFile/Lab5Xu/" (23097 1894 478569 992000) "process2" "interrupt.c" "dump" "syslib.h" "test_barrier" "printf.h" "kernel.c" "cscope.out" "floppy.img" "memory.c" "empty" "image_dump" "cscope.po.out" ".depend" "ld.script" "barrier_test.c" "obj.sh" "process1.c" "scheduler.h" "process2_dump" "dd.sh" "util.o" "asm.h" "../" "common.h" "kernel.h" "kernel" "tasks.c" "bootblock" "./" "th2.c" "process2.c" "process1" "bootblock.S" "image" "scheduler.c" "syslib.o" "createimage" "syslib.c" "settest" "cp0regdefs.h" "queue.h" "memory.h" "helper.S" "philosophers.c" "syscall.S" "sync.h" "util.h" ".vscode/" "entry.S~" "th.h" "printf.c" "printk.h" "queue.c" "printk.c" "tags" "project5_start_code.zip" "process1.o" "dup" "freestanding-inc/" "th1.c" "regs.h" "print.h" "createimage.c" "process2.o" "sync.c" "util.c" "process1_dump" "cscope.in.out" "interrupt.h" "Makefile" "test_regs" "print.c" "entry.S")
+
+ ("/home/frostfall/GoSpace/src/github.com/Dicridon/asdf/" (23100 44753 646219 158000) "../" "./")
+
+ ("/home/frostfall/GoSpace/src/github.com/Dicridon/test/" (23100 44646 191679 455000) "../" "./" "test.go" "test.go~")
+
+ ("/home/frostfall/Desktop/OSLabFile/" (23097 572 665217 627000) "Lab004/" "Lab002/" "Lab001/" "README.txt~" "2015K8009915050-熊子威-P2.tex" "../" "Lab5Xu/" "./" "Github/" "2015K8009915050-熊子威-P2.zip" "Model/" "start_code/" "2015K8009915050-熊子威-P2.pdf" "README.txt" "Lab003/")
+
+ ("/usr/local/go/src/go/types/" (22943 18985 0 0) "selection.go" "type.go" "operand.go" "scope.go" "universe.go" "exprstring_test.go" "resolver_test.go" "token_test.go" "eval_test.go" "eval.go" "initorder.go" "objset.go" "exprstring.go" "../" "builtins.go" "object.go" "./" "gotype.go" "stmt.go" "self_test.go" "lookup.go" "expr.go" "return.go" "testdata/" "sizes.go" "labels.go" "methodset.go" "conversions.go" "predicates.go" "typestring_test.go" "ordering.go" "builtins_test.go" "assignments.go" "api_test.go" "object_test.go" "check.go" "stdlib_test.go" "typestring.go" "issues_test.go" "example_test.go" "package.go" "resolver.go" "hilbert_test.go" "call.go" "api.go" "decl.go" "typexpr.go" "sizes_test.go" "errors.go" "check_test.go")
+
+ ("/usr/local/go/src/go/" (22943 18985 0 0) "doc/" "build/" "internal/" "../" "./" "token/" "constant/" "scanner/" "format/" "types/" "printer/" "importer/" "parser/" "ast/")
+
+ ("/usr/local/go/src/" (22943 18987 0 0) "unicode/" "vendor/" "race.bat" "go/" "time/" "encoding/" "strconv/" "iostest.bash" "run.rc" "errors/" "androidtest.bash" "bootstrap.bash" "internal/" "reflect/" "io/" "expvar/" "syscall/" "make.bat" "container/" "make.rc" "../" "log/" "debug/" "nacltest.bash" "path/" "clean.bash" "context/" "database/" "flag/" "./" "bytes/" "all.bat" "archive/" "naclmake.bash" "html/" "plugin/" "image/" "buildall.bash" "testing/" "builtin/" "text/" "unsafe/" "mime/" "make.bash" "all.rc" "Make.dist" "clean.rc" "all.bash" "compress/" "clean.bat" "runtime/" "bufio/" "cmp.bash" "math/" "net/" "strings/" "run.bash" "race.bash" "sort/" "sync/" "index/" "cmd/" "hash/" "os/" "run.bat" "regexp/" "crypto/" "fmt/")
+
+ ("/usr/local/go/" (22943 19054 0 0) "doc/" "api/" "README.md" "../" "CONTRIBUTORS" "src/" "./" "pkg/" "lib/" "blog/" "CONTRIBUTING.md" "misc/" "AUTHORS" "robots.txt" "bin/" "VERSION" "LICENSE" "PATENTS" "test/" "favicon.ico")
+
+ ("/usr/local/" (23093 8573 440096 415000) "go/" "games/" "../" "src/" "./" "include/" "lib/" "share/" "man/" "etc/" "bin/" "sbin/")
+
+ ("/usr/" (22968 29383 178927 239000) "games/" "lib32/" "../" "src/" "./" "include/" "lib/" "share/" "bin/" "local/" "sbin/" "locale/")
+
+ ("/home/frostfall/Course/CA/Lab/Lab007-2/" (23093 6151 83539 784000) "CONFREG/" "myCPU/" "soc_axi_lite_top.v" "../" "./" "tlb_func_v0.3.tar.gz" "tlb_func/" "rtl.rar")
+
+ ("/home/frostfall/Course/CA/Lab/Lab007/tlb_func/inst/" (23093 5930 94264 328000) "n2_entryhi.o" "n10_fetch_tlb_ex.o" "n8_load_tlb_ex.S" "n8_load_tlb_ex.o" "../" "n7_tlbp.S" "./" "n9_store_tlb_ex.S" "n5_pagemask.S" "n2_entryhi.S" "n6_tlbwi_tlbr.o" "n4_entrylo1.S" "n1_index.o" "n9_store_tlb_ex.o" "n5_pagemask.o" "n3_entrylo0.o" "n10_fetch_tlb_ex.S" "n6_tlbwi_tlbr.S" "n7_tlbp.o" "Makefile" "n4_entrylo1.o" "n1_index.S" "n3_entrylo0.S")
+
+ ("/home/frostfall/.emacs.d/elpa/company-go-20170825.943/" (23093 13077 682839 932000) "company-go-autoloads.el~" "company-go-pkg.elc" "../" "./" "company-go-pkg.el" "company-go.el" "company-go-autoloads.el" "company-go.elc")
+
+ ("/home/frostfall/.emacs.d/elpa/" (23093 13186 961224 512000) "dash-20170207.2056/" "archives/" "warm-night-theme-20161101.728/" "zenburn-theme-20170511.1337/" "magit-20171011.1130/" "company-irony-20170515.1608/" "elpy-20170701.1412/" "dash-20171010.131/" "color-theme-20080305.34/" "markdown-mode+-20170320.1404/" "flycheck-20170502.2305/" "go-mode-20170726.555/" "exec-path-from-shell-20170508.4/" "markdown-mode-20170317.1202/" "../" "persistent-soft-20150223.1053/" "suscolors-theme-20161109.1215/" "git-commit-20171007.346/" "irony-20170523.618/" "imenu+-20170303.1457/" "./" "magit-popup-20171009.258/" "epl-20150517.433/" "iedit-readme.txt" "async-20170916.2256/" "switch-window-20170522.2042/" "company-20170517.1436/" "with-editor-20171006.352/" "pkg-info-20150517.443/" "iedit-readme.txt~" "company-c-headers-20170531.1330/" "find-file-in-project-20170531.2054/" "icicles-20170522.1503/" "s-20170428.1026/" "ht-20161015.1945/" "pyvenv-20170224.538/" "list-utils-20160414.702/" "let-alist-1.0.5/" "ivy-20170703.2350/" "gnupg/" "auto-complete-20170124.1845/" "pcache-20170105.1414/" "sr-speedbar-20161025.131/" "iedit-20161228.2111/" "seq-2.20/" "go-errcheck-20160722.1743/" "popup-20160709.729/" "autothemer-20170112.1324/" "latex-preview-pane-20151023.1303/" "highlight-indentation-20170502.43/" "company-go-20170825.943/" "darktooth-theme-20170528.2201/" "list-packages-ext-20151115.916/" "imenu-list-20170215.125/" "yasnippet-20170418.351/" "smex-20151212.1409/")
+
+ ("/home/frostfall/.emacs.d/elpa/exec-path-from-shell-20170508.4/" (23093 13187 49217 797000) "../" "./" "exec-path-from-shell.elc" "exec-path-from-shell.el" "exec-path-from-shell-pkg.el" "exec-path-from-shell-autoloads.el" "exec-path-from-shell-pkg.elc" "exec-path-from-shell-autoloads.el~")
+
+ ("/home/" (22966 42761 783630 536000) "frostfall/" "../" "./")
+
+ ("/home/frostfall/.emacs.d/elpa/go-errcheck-20160722.1743/" (23093 11516 103674 746000) "../" "go-errcheck-pkg.el" "./" "go-errcheck-pkg.elc" "go-errcheck-autoloads.el~" "go-errcheck-autoloads.el" "go-errcheck.elc" "go-errcheck.el")
+
+ ("/home/frostfall/GoSpace/src/github.com/" (23093 10477 443703 201000) "rogpeppe/" "Dicridon/" "../" "./" "x/" "golang/" "nsf/" "kisielk/")
+
+ ("/home/frostfall/GoSpace/src/" (23093 10415 387730 81000) "../" "./" "github.com/" "golang.org/")
+
+ ("/home/frostfall/GoSpace/" (23093 9720 842973 25000) "../" "src/" "./" "pkg/" "bin/")
+
+ ("/home/frostfall/Course/CA/Lab/Lab007-2/tlb_func/include/" (23087 40286 0 0) "asm.h" "../" "./" "ucas_cde.h" "regdef.h")
+
+ ("/home/frostfall/Course/CA/Lab/Lab007-2/tlb_func/" (23091 60331 0 0) "bin.lds.S" "rules.make" "../" "./" "include/" "bin.lds" "convert.c" "inst/" "start.S" "convert" "Makefile" "README.txt")
+
+ ("/home/frostfall/Course/CA/Lab/" (23091 30580 268917 130000) "LEC05_硬件乘除法器实现.rar" "MIPS Architecture For Programmers Volume I-A Introduction to the MIPS32 Architecture.rev3.02.pdf" "Lab006.zip" "LEC05_硬件乘除法器实现.pdf" "MIPS Architecture For Programmers Volume II-A - The MIPS32 Instruction Set.rev3.02.pdf" "MD00565-2B-MIPS32-QRC-01.01.pdf" "../" "div.v~" "./" "Lab007/" "div_tb.v" "MIPS Architecture For Programmers Volume III - The MIPS32 and microMIPS32 Privileged Resource Architecture.rev3.12.pdf" "Lab007-2/" "div_tb.v~" "div.v" "Lab006/" "MIPS32手册.rar" "Lab005/" "mul_tb.v")
+
+ ("/home/frostfall/Course/CA/Lab/Lab007-2/CONFREG/" (23089 5371 0 0) "../" "confreg.v" "./")
+
+ ("/home/frostfall/Course/AI/Lab/Python/H13/" (23091 8779 831025 532000) "mycode.pyc" "linearrecord" "2015K8009915050_熊子威_13E.png" "scripts.py" ".ipynb_checkpoints/" "2015K8009915050_熊子威_13A.png" "../" "readme.txt~" "./" "theano.pdf" "scripts.pyc" "mycode.py~" "plot.py~" "2015K8009915050_熊子威_13B.png" "2015K8009915050_熊子威_13A.py" "logistic_regression.py~" "compare.py~" "2015K8009915050_熊子威_13F.png" "2015K8009915050_熊子威_13B.py" "compare.py" "linear_regression.pyc" "plot.py" "scripts.py~" "linear_regression.py~" "2015K8009915050_熊子威_13C.png" "logistic_regression.pyc" "2015K8009915050_熊子威_13D.png" "CDTheanoNet.ipynb" "readme.txt")
+
+ ("/home/frostfall/Course/ML/" (23090 7518 370331 325000) "../" "./" "TuringTest_ML/" "Linear+Model.pdf" "Model+Selection.pdf")
+
+ ("/home/frostfall/Course/CA/Lab/Lab007/tlb_func/" (23089 59542 0 0) "bin.lds.S" "rules.make" "../" "./" "include/" "convert.c" "inst/" "start.S" "Makefile" "README.txt")
+
+ ("/home/frostfall/Course/AI/Homework14/" (23080 59485 194784 847000) "../" "2015K8009915050_熊子威_15.pdf" "./" "2015K8009915050_熊子威_15.tex" "2015K8009915050_熊子威_15.aux" "2015K8009915050_熊子威_15.log" "2015K8009915050_熊子威_15.zip" "texput.log")
+
+ ("/home/frostfall/Desktop/OSLabFile/Github/P5/Project5-Virtual-Memory/" (23072 13364 0 0) "project5_start_code/" "../" "./" "任务二 - TLB例外处理和页替换.pdf" "参考文档/" "加分项-页替换算法和多级页表.pdf" "任务一 - 进程内存初始化与页表建立.pdf")
+
+ ("/home/frostfall/Desktop/OSLabFile/Github/P5/" (23082 14113 311957 766000) "../" "./" "Project5-Virtual-Memory/" ".delete")
+
+ ("/home/frostfall/Course/AI/" (23080 55760 884605 779000) "Lab/" "PPTs/" "Homework3/" "Homework6/" "../" "./" "Homework9/" "陆钟万面向计算机科学的数理逻辑-（第二版）.pdf" "Homework14/" "search.md~" "Homework12/" "Homework4/" "Homework11/" "Homework2/" "AIMA.pdf" "Homework7/" "Homework8/" "search.md" "面向计算机科学的数理逻辑.part1.rar")
+
+ ("/home/frostfall/Course/OS/OS/P4/project4_start_code/" (23070 49680 489641 956000) "processes.o" "process2" "interrupt.c" "syslib.h" "kernel.c" "th1." "floppy.img" "process3" ".depend" "util.o" "../" "common.h" "kernel" "./" "process1" "image" "scheduler.c" "syslib.o" "syslib.c" "sync.h" "process1.o" "process3.o" "processes" "process2.o" "sync.c" "test_kill/")
+
+ ("/home/frostfall/Course/OS/OS/P4/" (23070 54726 246457 477000) "data/" "designReport.log" "designReport.aux" "../" "./" "Project4-Synchronization-Primitives-IPC设计文档.docx" "designReport.tex~" "designReport.tex" "texput.log" "project4_start_code/")
+
+ ("/home/frostfall/Course/OS/OS/P4/data/OS/" (23070 54735 164114 69000) "P2/" "../" "./" "P4/" "P3/" "README" ".git/" "designReport.pdf" "P1/")
+
+ ("/home/frostfall/Course/OS/OS/P4/data/OS/P4/project4_start_code/" (23070 49786 163037 854000) "processes.o" "review.pdf" "process2" "interrupt.c" "ramdisk.c" "syslib.h" "test_barrier/" "kernel.c~" "printf.h" "kernel.c" "th1." "floppy.img" "process3" "barrier_test.c~" ".depend" "ld.script" "barrier_test.c" "processes.c" "obj.sh" "process1.c" "review.tex" "scheduler.h" "createimage.c~" "process2_dump" "util.o" "test_all/" "review.log" "asm.h" "../" "scheduler.c~" "mbox.c~" "process3.c" "common.h" "kernel.h" "kernel" "bootblock" "./" "th2.c" "process2.c" "process3_dump" "process1" "files.c" "bootblock.S" "util.c~" "util.h~" "image" "scheduler.c" "syslib.o" "ramdisk.h" "test_spawn/" "createimage" "syslib.c" "processes.h" "th2.c~" "settest" "cp0regdefs.h" "queue.h" "mbox.h" "sync.h~" "review.tex~" "helper.S" "philosophers.c" "syscall.S" "mbox.c" "review.aux" "files.h" "sync.c~" "sync.h" "scheduler.h~" "util.h" "process2.c~" "th.h" "printf.c" "printk.h" "philosophers.c~" "queue.c" "printk.c" "test_sanguo/" "ramdisk.h~" "process1.o" "freestanding-inc/" "th1.c" "process3.o" "processes" "regs.h" "print.h" "createimage.c" "process2.o" "sync.c" "util.c" "process1_dump" "test_kill/" "interrupt.h" "Makefile" "print.c" "texput.log" "entry.S" "process1.c~")
+
+ ("/home/frostfall/Course/OS/OS/P4/data/OS/P4/" (23070 49786 151038 64000) "../" "./" "project4_start_code/")
+
+ ("/home/frostfall/Course/OS/OS/P4/data/" (23070 49710 283193 565000) "../" "./" "OS/")
+
+ ("/home/frostfall/Course/OS/OS/P3/" (23070 5259 68179 693000) "../" "./" "project3_start_code/" "README")
+
+ ("/home/frostfall/Course/OS/OS/P3/project3_start_code/" (23070 5259 84219 825000) "kernel_dump~" "process2" "interrupt.c" "th1.c~" "syslib.h" "kernel.c~" "image_hex" "printf.h" "kernel.c" "floppy.img" "image_dump" ".depend" "ld.script" "barrier_test.c" "process1.c" "scheduler.h" "createimage.c~" "util.o" "test_all/" "asm.h" "../" "scheduler.c~" "#bootblock.S#" "common.h" "kernel.h" "kernel" "tasks.c" "bootblock" "./" "th2.c" "process2.c" "test_preempt/" "process1" "bootblock.S" "image" "scheduler.c" "syslib.o" "interrupt.h~" "bootblock_dump" "createimage" "syslib.c" "cp0regdefs.h" "queue.h" "helper.S" "philosophers.c" "#scheduler.h#" "syscall.S" "queue.c~" "sync.h" "scheduler.h~" "util.h" "image_hexdump" "entry.S~" "process2.c~" "settest.sh" "queue.h~" "nested_count--" "th.h" "printf.c" "printk.h" "queue.c" "printk.c" "tags" "process1.o" "freestanding-inc/" "th1.c" "interrupt.c~" "regs.h" "print.h" "createimage.c" "process2.o" "sync.c" "util.c" "#queue.c#" "interrupt.h" "Makefile" "kernel_dump" "print.c" "test_blocksleep/" "bootblock_hex" "entry.S" "process1.c~")
+
+ ("/home/frostfall/Course/OS/OS/P4/project4_start_code/test_sanguo/" (23070 5259 100259 957000) "barrier_test.c" "processes.c" "process1.c" "../" "process3.c" "./" "th2.c" "process2.c" "files.c" "processes.h" "philosophers.c" "files.h" "process2.c~" "th.h" "th1.c")
+
+ ("/home/frostfall/Course/OS/OS/" (23070 5259 100259 957000) "P2/" "../" "./" "P4/" "P3/" "README" ".git/" "P1/")
+
+ ("/home/frostfall/Course/CA/Lab/Lab006/" (23068 49401 320492 342000) "AMBA总线协议.zip" "AMBA_SPEC_Rev2.pdf" "axi/" "adding_solution_1 (1).py" "lab6-1_23.docx" "../" "./" "axi_ram.coe" "axi_lite_if.v" "Lab06_CPU总线接口支持.pdf" "AMBAaxi.pdf")
+
+ ("/home/frostfall/Course/CA/Lab/Lab006/axi/rtl/axi_ifc/" (23066 34649 460463 285000) "signal_dependences.md" "../" "./" "signal_dependences.md~" "cpu_axi_interface.v" "inter.v~" "cpu_axi_interface.v~")
+
+ ("/home/frostfall/Course/CA/Lab/Lab006/axi/rtl/ram_wrap/" (23066 29304 225332 474000) "../" "./" "axi_wrap_ram.v~" "axi_wrap_ram.v")
+
+ ("/home/frostfall/Course/CA/Lab/Lab006/axi/" (23066 28309 188216 291000) "testbench/" "../" "rtl/" "./" "axi_ram.coe" "cpu_axi_ifc_dev.zip" "run_vivado/")
+
+ ("/home/frostfall/Course/CA/Lab/Lab006/axi/rtl/" (23066 29130 517656 294000) "CONFREG/" "axi_ifc/" "ram_wrap/" "../" "./" "xilinx_ip/" "virtual_cpu/" "axi_ifc_top.v")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
